@@ -1,0 +1,426 @@
+year,event,round,dataset,Driver,Team,valid_laps_n,clean_air_laps_n,lap_time_median_s,clean_air_lap_time_median_s,clean_air_lap_time_p25_s,clean_air_best5_median_s,clean_gap_s
+2022,Bahrain Grand Prix,1,fastf1,ALB,Williams,39.0,31.0,100.863,100.8,99.27,98.356,2.0
+2022,Bahrain Grand Prix,1,fastf1,ALO,Alpine,37.0,19.0,99.854,99.809,99.211,98.958,2.0
+2022,Bahrain Grand Prix,1,fastf1,BOT,Alfa Romeo,41.0,16.0,99.739,99.81049999999999,99.53125,98.386,2.0
+2022,Bahrain Grand Prix,1,fastf1,GAS,AlphaTauri,35.0,23.0,99.513,99.152,98.628,98.301,2.0
+2022,Bahrain Grand Prix,1,fastf1,HAM,Mercedes,39.0,25.0,98.368,98.368,97.771,97.47,2.0
+2022,Bahrain Grand Prix,1,fastf1,HUL,Aston Martin,37.0,18.0,100.815,100.2765,99.35675,99.22,2.0
+2022,Bahrain Grand Prix,1,fastf1,LAT,Williams,39.0,29.0,101.161,100.489,99.797,98.707,2.0
+2022,Bahrain Grand Prix,1,fastf1,LEC,Ferrari,42.0,42.0,97.763,97.763,96.84,95.427,2.0
+2022,Bahrain Grand Prix,1,fastf1,MAG,Haas F1 Team,41.0,35.0,99.384,99.384,98.197,97.091,2.0
+2022,Bahrain Grand Prix,1,fastf1,MSC,Haas F1 Team,40.0,25.0,100.556,99.816,98.279,97.947,2.0
+2022,Bahrain Grand Prix,1,fastf1,NOR,McLaren,38.0,15.0,101.68549999999999,100.104,99.4205,99.175,2.0
+2022,Bahrain Grand Prix,1,fastf1,OCO,Alpine,39.0,26.0,99.188,99.1235,98.47749999999999,97.68,2.0
+2022,Bahrain Grand Prix,1,fastf1,PER,Red Bull Racing,38.0,28.0,98.287,97.911,97.16325,96.511,2.0
+2022,Bahrain Grand Prix,1,fastf1,RIC,McLaren,37.0,19.0,100.627,99.715,99.1515,98.988,2.0
+2022,Bahrain Grand Prix,1,fastf1,RUS,Mercedes,38.0,30.0,99.0685,99.13050000000001,98.1225,97.753,2.0
+2022,Bahrain Grand Prix,1,fastf1,SAI,Ferrari,40.0,38.0,98.243,98.25399999999999,97.26225000000001,96.565,2.0
+2022,Bahrain Grand Prix,1,fastf1,STR,Aston Martin,38.0,22.0,100.4485,100.0455,98.68674999999999,98.127,2.0
+2022,Bahrain Grand Prix,1,fastf1,TSU,AlphaTauri,39.0,27.0,99.069,99.574,98.766,98.484,2.0
+2022,Bahrain Grand Prix,1,fastf1,VER,Red Bull Racing,36.0,26.0,98.25,98.333,97.29,96.898,2.0
+2022,Bahrain Grand Prix,1,fastf1,ZHO,Alfa Romeo,39.0,23.0,99.836,99.748,99.00049999999999,97.667,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,ALB,Williams,32.0,9.0,96.331,97.668,95.423,95.423,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,ALO,Alpine,25.0,9.0,95.666,96.431,96.315,96.315,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,BOT,Alfa Romeo,26.0,4.0,95.97999999999999,95.531,94.81675,,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,GAS,AlphaTauri,34.0,21.0,95.975,96.468,93.779,93.616,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,HAM,Mercedes,34.0,17.0,94.988,94.144,93.79,93.379,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,HUL,Aston Martin,34.0,18.0,96.588,95.5925,94.7165,94.205,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,LAT,Williams,12.0,3.0,98.14099999999999,98.409,98.30850000000001,,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,LEC,Ferrari,34.0,29.0,93.4645,93.459,92.752,92.481,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,MAG,Haas F1 Team,35.0,18.0,95.509,94.57050000000001,93.625,93.175,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,NOR,McLaren,33.0,7.0,95.606,97.076,95.7145,97.055,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,OCO,Alpine,35.0,18.0,95.232,94.527,93.51050000000001,93.424,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,PER,Red Bull Racing,33.0,21.0,93.647,94.481,93.122,92.878,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,RIC,McLaren,24.0,12.0,95.7665,95.043,94.77000000000001,94.701,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,RUS,Mercedes,35.0,33.0,94.083,94.072,93.668,93.035,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,SAI,Ferrari,34.0,29.0,93.609,93.231,93.004,92.271,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,STR,Aston Martin,32.0,18.0,96.202,95.44,95.155,94.68,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,VER,Red Bull Racing,34.0,8.0,93.3745,94.9705,92.75049999999999,92.755,2.0
+2022,Saudi Arabian Grand Prix,2,fastf1,ZHO,Alfa Romeo,32.0,17.0,96.137,94.576,94.344,94.064,2.0
+2022,Australian Grand Prix,3,fastf1,ALB,Williams,43.0,24.0,84.626,83.1825,82.957,82.658,2.0
+2022,Australian Grand Prix,3,fastf1,ALO,Alpine,39.0,14.0,84.792,84.3835,84.17575,84.151,2.0
+2022,Australian Grand Prix,3,fastf1,BOT,Alfa Romeo,43.0,8.0,84.555,82.45,82.12424999999999,82.201,2.0
+2022,Australian Grand Prix,3,fastf1,GAS,AlphaTauri,42.0,11.0,84.5565,83.531,83.22149999999999,83.182,2.0
+2022,Australian Grand Prix,3,fastf1,HAM,Mercedes,43.0,20.0,83.11,83.903,83.09975,82.623,2.0
+2022,Australian Grand Prix,3,fastf1,LAT,Williams,40.0,27.0,84.976,84.957,84.126,83.924,2.0
+2022,Australian Grand Prix,3,fastf1,LEC,Ferrari,43.0,43.0,82.124,82.124,81.5925,81.017,2.0
+2022,Australian Grand Prix,3,fastf1,MAG,Haas F1 Team,42.0,14.0,84.861,84.239,83.60674999999999,83.451,2.0
+2022,Australian Grand Prix,3,fastf1,MSC,Haas F1 Team,40.0,5.0,84.507,84.347,84.171,84.347,2.0
+2022,Australian Grand Prix,3,fastf1,NOR,McLaren,42.0,23.0,84.0755,82.979,82.5895,82.435,2.0
+2022,Australian Grand Prix,3,fastf1,OCO,Alpine,40.0,11.0,84.333,84.507,83.136,83.102,2.0
+2022,Australian Grand Prix,3,fastf1,PER,Red Bull Racing,41.0,31.0,82.718,82.236,81.9175,81.753,2.0
+2022,Australian Grand Prix,3,fastf1,RIC,McLaren,42.0,12.0,83.6995,82.96950000000001,82.64425,82.561,2.0
+2022,Australian Grand Prix,3,fastf1,RUS,Mercedes,44.0,28.0,83.244,82.35300000000001,82.062,81.777,2.0
+2022,Australian Grand Prix,3,fastf1,STR,Aston Martin,44.0,15.0,84.91300000000001,83.934,83.7935,83.747,2.0
+2022,Australian Grand Prix,3,fastf1,TSU,AlphaTauri,41.0,23.0,85.003,84.51,83.88650000000001,83.596,2.0
+2022,Australian Grand Prix,3,fastf1,VER,Red Bull Racing,20.0,19.0,83.2175,83.129,82.7045,82.46,2.0
+2022,Australian Grand Prix,3,fastf1,VET,Aston Martin,14.0,8.0,85.7795,85.7795,85.50725,85.554,2.0
+2022,Australian Grand Prix,3,fastf1,ZHO,Alfa Romeo,42.0,7.0,84.81,84.063,83.1035,83.314,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,ALB,Williams,46.0,5.0,82.257,95.35,95.313,95.35,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,BOT,Alfa Romeo,50.0,30.0,81.4845,81.44800000000001,80.97274999999999,80.886,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,GAS,AlphaTauri,46.0,7.0,82.223,94.569,93.86,94.417,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,HAM,Mercedes,48.0,0.0,82.356,,,,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,LAT,Williams,50.0,37.0,82.405,81.912,81.642,81.396,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,LEC,Ferrari,46.0,22.0,81.02600000000001,80.88499999999999,80.577,78.996,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,MAG,Haas F1 Team,48.0,42.0,81.985,81.985,81.5235,81.358,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,MSC,Haas F1 Team,47.0,34.0,82.009,81.75800000000001,81.3845,79.745,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,NOR,McLaren,51.0,49.0,81.667,81.637,81.44,81.043,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,OCO,Alpine,44.0,23.0,82.107,82.223,82.0415,81.975,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,PER,Red Bull Racing,47.0,47.0,80.992,80.992,80.607,79.84,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,RIC,McLaren,46.0,32.0,82.7705,82.287,82.018,81.682,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,RUS,Mercedes,50.0,44.0,81.75999999999999,81.6715,81.4565,81.082,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,STR,Aston Martin,45.0,31.0,82.128,81.988,81.874,81.787,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,TSU,AlphaTauri,51.0,38.0,81.588,81.767,81.19250000000001,80.704,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,VER,Red Bull Racing,46.0,46.0,80.73599999999999,80.73599999999999,80.45425,79.609,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,VET,Aston Martin,49.0,42.0,81.968,81.807,81.5655,81.359,2.0
+2022,Emilia Romagna Grand Prix,4,fastf1,ZHO,Alfa Romeo,49.0,23.0,82.123,81.646,81.45750000000001,81.361,2.0
+2022,Miami Grand Prix,5,fastf1,ALB,Williams,41.0,24.0,94.964,94.731,94.04225,93.706,2.0
+2022,Miami Grand Prix,5,fastf1,ALO,Alpine,39.0,15.0,94.875,94.885,94.7985,94.782,2.0
+2022,Miami Grand Prix,5,fastf1,BOT,Alfa Romeo,40.0,30.0,94.412,94.7465,93.98625,93.52,2.0
+2022,Miami Grand Prix,5,fastf1,GAS,AlphaTauri,31.0,26.0,95.173,95.018,94.70700000000001,94.552,2.0
+2022,Miami Grand Prix,5,fastf1,HAM,Mercedes,39.0,28.0,93.888,94.4995,93.68125,93.436,2.0
+2022,Miami Grand Prix,5,fastf1,LAT,Williams,40.0,33.0,96.4805,96.264,95.407,94.697,2.0
+2022,Miami Grand Prix,5,fastf1,LEC,Ferrari,42.0,32.0,93.13300000000001,93.36699999999999,92.932,92.43,2.0
+2022,Miami Grand Prix,5,fastf1,MAG,Haas F1 Team,38.0,8.0,95.009,95.8115,95.2585,95.38,2.0
+2022,Miami Grand Prix,5,fastf1,MSC,Haas F1 Team,38.0,13.0,94.9195,95.354,94.195,94.014,2.0
+2022,Miami Grand Prix,5,fastf1,NOR,McLaren,33.0,19.0,95.358,95.653,94.791,94.6,2.0
+2022,Miami Grand Prix,5,fastf1,OCO,Alpine,43.0,20.0,94.945,94.85300000000001,94.62424999999999,94.45,2.0
+2022,Miami Grand Prix,5,fastf1,PER,Red Bull Racing,39.0,17.0,93.918,93.838,93.368,93.237,2.0
+2022,Miami Grand Prix,5,fastf1,RIC,McLaren,40.0,24.0,95.2785,95.148,94.79375,94.125,2.0
+2022,Miami Grand Prix,5,fastf1,RUS,Mercedes,43.0,32.0,94.419,94.16300000000001,93.86425,92.375,2.0
+2022,Miami Grand Prix,5,fastf1,SAI,Ferrari,42.0,41.0,93.8625,93.86,93.071,92.225,2.0
+2022,Miami Grand Prix,5,fastf1,STR,Aston Martin,42.0,12.0,95.015,96.64,95.71124999999999,94.731,2.0
+2022,Miami Grand Prix,5,fastf1,TSU,AlphaTauri,38.0,27.0,95.56700000000001,95.257,94.158,93.318,2.0
+2022,Miami Grand Prix,5,fastf1,VER,Red Bull Racing,42.0,36.0,93.24549999999999,92.923,92.41050000000001,91.75,2.0
+2022,Miami Grand Prix,5,fastf1,VET,Aston Martin,40.0,5.0,95.2655,93.971,93.944,93.971,2.0
+2022,Miami Grand Prix,5,fastf1,ZHO,Alfa Romeo,3.0,0.0,95.883,,,,2.0
+2022,Spanish Grand Prix,6,fastf1,ALB,Williams,45.0,38.0,90.495,90.3005,89.596,88.79,2.0
+2022,Spanish Grand Prix,6,fastf1,ALO,Alpine,52.0,39.0,88.469,88.234,87.717,86.789,2.0
+2022,Spanish Grand Prix,6,fastf1,BOT,Alfa Romeo,55.0,53.0,88.55,88.537,88.259,87.343,2.0
+2022,Spanish Grand Prix,6,fastf1,GAS,AlphaTauri,50.0,24.0,88.9855,88.778,88.20949999999999,87.243,2.0
+2022,Spanish Grand Prix,6,fastf1,HAM,Mercedes,54.0,40.0,87.3555,87.325,86.816,85.257,2.0
+2022,Spanish Grand Prix,6,fastf1,LAT,Williams,50.0,39.0,90.02350000000001,89.831,89.355,87.772,2.0
+2022,Spanish Grand Prix,6,fastf1,LEC,Ferrari,19.0,19.0,88.375,88.375,87.549,87.198,2.0
+2022,Spanish Grand Prix,6,fastf1,MAG,Haas F1 Team,56.0,53.0,89.842,89.849,89.178,87.756,2.0
+2022,Spanish Grand Prix,6,fastf1,MSC,Haas F1 Team,55.0,44.0,89.737,89.587,88.96525,88.359,2.0
+2022,Spanish Grand Prix,6,fastf1,NOR,McLaren,53.0,44.0,88.88,88.453,87.69375,85.906,2.0
+2022,Spanish Grand Prix,6,fastf1,OCO,Alpine,53.0,48.0,88.76,88.437,87.604,86.364,2.0
+2022,Spanish Grand Prix,6,fastf1,PER,Red Bull Racing,52.0,37.0,87.685,87.183,86.218,85.752,2.0
+2022,Spanish Grand Prix,6,fastf1,RIC,McLaren,52.0,34.0,89.238,88.955,88.30250000000001,87.376,2.0
+2022,Spanish Grand Prix,6,fastf1,RUS,Mercedes,52.0,50.0,88.13,88.13,87.362,85.947,2.0
+2022,Spanish Grand Prix,6,fastf1,SAI,Ferrari,52.0,29.0,88.0125,87.394,86.455,86.136,2.0
+2022,Spanish Grand Prix,6,fastf1,STR,Aston Martin,49.0,38.0,89.025,88.85749999999999,88.2235,87.677,2.0
+2022,Spanish Grand Prix,6,fastf1,TSU,AlphaTauri,52.0,35.0,88.62,88.615,87.85149999999999,86.974,2.0
+2022,Spanish Grand Prix,6,fastf1,VER,Red Bull Racing,53.0,31.0,87.176,86.924,86.6385,86.491,2.0
+2022,Spanish Grand Prix,6,fastf1,VET,Aston Martin,52.0,39.0,89.0315,88.729,88.31649999999999,88.027,2.0
+2022,Spanish Grand Prix,6,fastf1,ZHO,Alfa Romeo,19.0,5.0,90.005,90.033,90.005,90.033,2.0
+2022,Monaco Grand Prix,7,fastf1,ALB,Williams,25.0,11.0,79.677,79.677,78.3965,78.289,2.0
+2022,Monaco Grand Prix,7,fastf1,ALO,Alpine,44.0,39.0,80.042,79.709,78.6285,77.324,2.0
+2022,Monaco Grand Prix,7,fastf1,BOT,Alfa Romeo,44.0,19.0,79.9465,92.732,78.41300000000001,77.993,2.0
+2022,Monaco Grand Prix,7,fastf1,GAS,AlphaTauri,42.0,5.0,80.0075,97.686,96.803,97.686,2.0
+2022,Monaco Grand Prix,7,fastf1,HAM,Mercedes,40.0,17.0,79.75,78.472,78.123,78.025,2.0
+2022,Monaco Grand Prix,7,fastf1,LAT,Williams,42.0,29.0,80.3275,82.935,80.097,79.289,2.0
+2022,Monaco Grand Prix,7,fastf1,LEC,Ferrari,41.0,20.0,78.539,91.794,76.97,76.861,2.0
+2022,Monaco Grand Prix,7,fastf1,MAG,Haas F1 Team,12.0,1.0,97.73400000000001,97.629,97.629,,2.0
+2022,Monaco Grand Prix,7,fastf1,MSC,Haas F1 Team,11.0,3.0,96.308,98.209,94.2325,,2.0
+2022,Monaco Grand Prix,7,fastf1,NOR,McLaren,37.0,35.0,78.122,78.281,76.8895,75.164,2.0
+2022,Monaco Grand Prix,7,fastf1,OCO,Alpine,43.0,15.0,79.939,94.552,92.88499999999999,86.053,2.0
+2022,Monaco Grand Prix,7,fastf1,PER,Red Bull Racing,42.0,36.0,78.419,78.11250000000001,76.76225,76.26,2.0
+2022,Monaco Grand Prix,7,fastf1,RIC,McLaren,43.0,27.0,80.098,79.001,78.0695,77.801,2.0
+2022,Monaco Grand Prix,7,fastf1,RUS,Mercedes,43.0,37.0,78.807,78.259,77.323,76.996,2.0
+2022,Monaco Grand Prix,7,fastf1,SAI,Ferrari,44.0,22.0,78.686,91.713,76.78,76.619,2.0
+2022,Monaco Grand Prix,7,fastf1,STR,Aston Martin,45.0,13.0,80.222,89.708,78.996,78.411,2.0
+2022,Monaco Grand Prix,7,fastf1,TSU,AlphaTauri,38.0,16.0,80.43799999999999,78.99950000000001,78.21950000000001,75.979,2.0
+2022,Monaco Grand Prix,7,fastf1,VER,Red Bull Racing,40.0,8.0,78.17500000000001,84.23599999999999,76.76025,76.761,2.0
+2022,Monaco Grand Prix,7,fastf1,VET,Aston Martin,41.0,9.0,79.861,89.768,79.861,79.861,2.0
+2022,Monaco Grand Prix,7,fastf1,ZHO,Alfa Romeo,43.0,4.0,81.571,87.6915,85.25825,,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,ALB,Williams,37.0,21.0,110.06,108.553,108.167,108.086,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,ALO,Alpine,39.0,32.0,109.422,109.3475,108.6285,108.332,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,BOT,Alfa Romeo,41.0,33.0,110.341,110.037,108.606,108.244,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,GAS,AlphaTauri,42.0,29.0,109.337,109.132,108.927,108.669,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,HAM,Mercedes,41.0,25.0,109.246,108.661,107.81,107.415,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,LAT,Williams,33.0,33.0,111.025,111.025,110.39,109.94,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,LEC,Ferrari,13.0,12.0,108.345,108.3875,108.24575,108.203,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,MAG,Haas F1 Team,25.0,9.0,110.515,110.413,110.202,110.202,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,MSC,Haas F1 Team,37.0,32.0,110.53,109.662,108.94225,108.618,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,NOR,McLaren,39.0,14.0,109.469,108.48349999999999,108.20075,108.17,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,OCO,Alpine,41.0,33.0,110.732,110.461,108.813,108.523,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,PER,Red Bull Racing,38.0,38.0,107.9525,107.9525,107.44250000000001,107.12,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,RIC,McLaren,42.0,20.0,110.116,109.392,108.7085,108.597,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,RUS,Mercedes,41.0,41.0,109.025,109.025,107.738,107.233,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,SAI,Ferrari,6.0,6.0,109.1115,109.1115,109.01724999999999,109.054,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,STR,Aston Martin,34.0,12.0,110.801,109.65899999999999,108.94125,108.309,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,TSU,AlphaTauri,37.0,18.0,109.777,109.6065,108.02624999999999,107.606,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,VER,Red Bull Racing,39.0,30.0,107.643,107.4125,106.87675,106.48,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,VET,Aston Martin,41.0,23.0,109.464,108.823,108.53550000000001,108.488,2.0
+2022,Azerbaijan Grand Prix,8,fastf1,ZHO,Alfa Romeo,16.0,4.0,110.488,109.91749999999999,109.525,,2.0
+2022,Canadian Grand Prix,9,fastf1,ALB,Williams,49.0,29.0,79.196,79.244,79.111,79.004,2.0
+2022,Canadian Grand Prix,9,fastf1,ALO,Alpine,52.0,28.0,78.4605,78.69200000000001,78.45949999999999,78.198,2.0
+2022,Canadian Grand Prix,9,fastf1,BOT,Alfa Romeo,55.0,28.0,78.815,78.8215,78.73025,78.503,2.0
+2022,Canadian Grand Prix,9,fastf1,GAS,AlphaTauri,50.0,30.0,78.799,78.9485,78.6755,78.491,2.0
+2022,Canadian Grand Prix,9,fastf1,HAM,Mercedes,51.0,37.0,77.878,77.811,76.716,76.283,2.0
+2022,Canadian Grand Prix,9,fastf1,LAT,Williams,50.0,41.0,79.8375,79.553,79.143,78.779,2.0
+2022,Canadian Grand Prix,9,fastf1,LEC,Ferrari,53.0,15.0,78.504,76.767,76.54650000000001,76.308,2.0
+2022,Canadian Grand Prix,9,fastf1,MAG,Haas F1 Team,53.0,41.0,79.468,79.371,78.931,78.641,2.0
+2022,Canadian Grand Prix,9,fastf1,MSC,Haas F1 Team,13.0,3.0,79.402,79.598,79.37,,2.0
+2022,Canadian Grand Prix,9,fastf1,NOR,McLaren,49.0,7.0,79.187,78.699,78.05799999999999,78.148,2.0
+2022,Canadian Grand Prix,9,fastf1,OCO,Alpine,54.0,44.0,78.55600000000001,78.54050000000001,78.02275,77.147,2.0
+2022,Canadian Grand Prix,9,fastf1,PER,Red Bull Racing,5.0,0.0,79.428,,,,2.0
+2022,Canadian Grand Prix,9,fastf1,RIC,McLaren,52.0,20.0,79.079,78.74199999999999,78.176,78.121,2.0
+2022,Canadian Grand Prix,9,fastf1,RUS,Mercedes,51.0,47.0,77.795,77.795,76.881,76.487,2.0
+2022,Canadian Grand Prix,9,fastf1,SAI,Ferrari,54.0,39.0,77.49000000000001,77.673,77.46600000000001,77.298,2.0
+2022,Canadian Grand Prix,9,fastf1,STR,Aston Martin,53.0,34.0,79.254,79.07,78.90875,77.698,2.0
+2022,Canadian Grand Prix,9,fastf1,TSU,AlphaTauri,38.0,7.0,79.299,78.549,78.51249999999999,78.532,2.0
+2022,Canadian Grand Prix,9,fastf1,VER,Red Bull Racing,53.0,51.0,77.458,77.457,76.3155,75.924,2.0
+2022,Canadian Grand Prix,9,fastf1,VET,Aston Martin,52.0,20.0,78.83699999999999,78.73599999999999,78.64099999999999,78.498,2.0
+2022,Canadian Grand Prix,9,fastf1,ZHO,Alfa Romeo,54.0,2.0,79.1005,77.842,77.738,,2.0
+2022,British Grand Prix,10,fastf1,ALO,Alpine,39.0,15.0,93.983,93.991,93.83099999999999,93.681,2.0
+2022,British Grand Prix,10,fastf1,BOT,Alfa Romeo,14.0,0.0,95.47,,,,2.0
+2022,British Grand Prix,10,fastf1,GAS,AlphaTauri,18.0,14.0,95.46549999999999,95.342,94.85175000000001,94.738,2.0
+2022,British Grand Prix,10,fastf1,HAM,Mercedes,39.0,31.0,92.655,92.655,92.172,91.397,2.0
+2022,British Grand Prix,10,fastf1,LAT,Williams,38.0,9.0,95.0025,94.663,94.309,94.309,2.0
+2022,British Grand Prix,10,fastf1,LEC,Ferrari,41.0,15.0,92.796,91.893,91.7195,91.613,2.0
+2022,British Grand Prix,10,fastf1,MAG,Haas F1 Team,39.0,12.0,94.946,93.5015,93.049,92.827,2.0
+2022,British Grand Prix,10,fastf1,MSC,Haas F1 Team,38.0,5.0,94.42949999999999,93.979,93.864,93.979,2.0
+2022,British Grand Prix,10,fastf1,NOR,McLaren,40.0,28.0,93.951,93.9705,93.82124999999999,92.425,2.0
+2022,British Grand Prix,10,fastf1,OCO,Alpine,30.0,12.0,94.99549999999999,95.0175,94.9585,94.849,2.0
+2022,British Grand Prix,10,fastf1,PER,Red Bull Racing,39.0,28.0,92.926,92.803,92.22275,91.102,2.0
+2022,British Grand Prix,10,fastf1,RIC,McLaren,34.0,3.0,94.644,93.122,93.05,,2.0
+2022,British Grand Prix,10,fastf1,SAI,Ferrari,38.0,33.0,92.708,92.696,91.526,91.215,2.0
+2022,British Grand Prix,10,fastf1,STR,Aston Martin,38.0,11.0,94.6335,94.124,93.78450000000001,93.781,2.0
+2022,British Grand Prix,10,fastf1,TSU,AlphaTauri,36.0,28.0,95.505,95.44,94.41375,94.072,2.0
+2022,British Grand Prix,10,fastf1,VER,Red Bull Racing,35.0,28.0,94.171,94.40950000000001,93.02925,92.516,2.0
+2022,British Grand Prix,10,fastf1,VET,Aston Martin,38.0,34.0,94.37,94.37,93.988,92.988,2.0
+2022,Austrian Grand Prix,11,fastf1,ALB,Williams,56.0,27.0,71.53,71.072,70.6465,70.32,2.0
+2022,Austrian Grand Prix,11,fastf1,ALO,Alpine,58.0,19.0,71.16499999999999,70.681,69.952,68.965,2.0
+2022,Austrian Grand Prix,11,fastf1,BOT,Alfa Romeo,57.0,14.0,71.324,70.64949999999999,70.18050000000001,70.153,2.0
+2022,Austrian Grand Prix,11,fastf1,GAS,AlphaTauri,57.0,28.0,71.421,70.88550000000001,70.70175,70.579,2.0
+2022,Austrian Grand Prix,11,fastf1,HAM,Mercedes,59.0,44.0,70.498,70.3125,69.76225,69.127,2.0
+2022,Austrian Grand Prix,11,fastf1,LAT,Williams,36.0,16.0,72.2515,72.4975,72.27074999999999,72.191,2.0
+2022,Austrian Grand Prix,11,fastf1,LEC,Ferrari,56.0,44.0,70.2025,70.1005,69.17124999999999,68.681,2.0
+2022,Austrian Grand Prix,11,fastf1,MAG,Haas F1 Team,55.0,25.0,71.272,70.795,70.489,70.069,2.0
+2022,Austrian Grand Prix,11,fastf1,MSC,Haas F1 Team,48.0,30.0,71.084,70.4725,70.13325,69.828,2.0
+2022,Austrian Grand Prix,11,fastf1,NOR,McLaren,54.0,21.0,71.32849999999999,70.275,70.182,70.01,2.0
+2022,Austrian Grand Prix,11,fastf1,OCO,Alpine,57.0,35.0,71.26,71.26,70.61449999999999,69.885,2.0
+2022,Austrian Grand Prix,11,fastf1,PER,Red Bull Racing,17.0,17.0,72.81,72.81,72.686,72.421,2.0
+2022,Austrian Grand Prix,11,fastf1,RIC,McLaren,57.0,32.0,71.542,70.7775,70.31400000000001,70.167,2.0
+2022,Austrian Grand Prix,11,fastf1,RUS,Mercedes,57.0,23.0,70.761,70.454,69.748,69.489,2.0
+2022,Austrian Grand Prix,11,fastf1,SAI,Ferrari,46.0,37.0,70.455,70.469,70.13,69.358,2.0
+2022,Austrian Grand Prix,11,fastf1,STR,Aston Martin,58.0,38.0,71.74,71.7585,70.37775,70.094,2.0
+2022,Austrian Grand Prix,11,fastf1,TSU,AlphaTauri,54.0,31.0,71.717,71.722,70.634,70.329,2.0
+2022,Austrian Grand Prix,11,fastf1,VER,Red Bull Racing,58.0,52.0,70.1675,70.1465,69.75775,67.938,2.0
+2022,Austrian Grand Prix,11,fastf1,VET,Aston Martin,58.0,17.0,71.351,71.118,70.343,70.115,2.0
+2022,Austrian Grand Prix,11,fastf1,ZHO,Alfa Romeo,56.0,11.0,71.4905,70.411,70.2355,70.133,2.0
+2022,French Grand Prix,12,fastf1,ALB,Williams,41.0,29.0,100.0,99.857,99.656,99.449,2.0
+2022,French Grand Prix,12,fastf1,ALO,Alpine,42.0,37.0,99.51150000000001,99.326,98.931,98.37,2.0
+2022,French Grand Prix,12,fastf1,BOT,Alfa Romeo,37.0,13.0,99.928,98.466,98.312,98.254,2.0
+2022,French Grand Prix,12,fastf1,GAS,AlphaTauri,41.0,18.0,100.05,100.80000000000001,100.029,99.117,2.0
+2022,French Grand Prix,12,fastf1,HAM,Mercedes,42.0,42.0,98.6005,98.6005,98.17075,97.815,2.0
+2022,French Grand Prix,12,fastf1,LAT,Williams,29.0,3.0,100.706,101.032,100.893,,2.0
+2022,French Grand Prix,12,fastf1,LEC,Ferrari,15.0,15.0,98.963,98.963,98.7715,98.658,2.0
+2022,French Grand Prix,12,fastf1,MAG,Haas F1 Team,27.0,8.0,100.145,100.3075,99.87875,99.978,2.0
+2022,French Grand Prix,12,fastf1,MSC,Haas F1 Team,39.0,33.0,100.031,99.918,99.648,99.404,2.0
+2022,French Grand Prix,12,fastf1,NOR,McLaren,43.0,30.0,99.636,99.91999999999999,99.394,99.125,2.0
+2022,French Grand Prix,12,fastf1,OCO,Alpine,43.0,18.0,99.777,100.32249999999999,99.15425,98.801,2.0
+2022,French Grand Prix,12,fastf1,PER,Red Bull Racing,41.0,21.0,98.525,98.663,98.31,98.021,2.0
+2022,French Grand Prix,12,fastf1,RIC,McLaren,42.0,17.0,99.8115,99.806,99.675,99.363,2.0
+2022,French Grand Prix,12,fastf1,RUS,Mercedes,41.0,14.0,98.591,98.35849999999999,98.25025,98.025,2.0
+2022,French Grand Prix,12,fastf1,SAI,Ferrari,39.0,12.0,98.416,97.287,96.316,96.208,2.0
+2022,French Grand Prix,12,fastf1,STR,Aston Martin,42.0,14.0,99.8225,99.76750000000001,99.5585,99.449,2.0
+2022,French Grand Prix,12,fastf1,TSU,AlphaTauri,11.0,11.0,101.117,101.117,100.70349999999999,100.672,2.0
+2022,French Grand Prix,12,fastf1,VER,Red Bull Racing,38.0,26.0,98.06299999999999,97.94749999999999,97.812,97.695,2.0
+2022,French Grand Prix,12,fastf1,VET,Aston Martin,41.0,5.0,99.869,99.392,99.124,99.392,2.0
+2022,French Grand Prix,12,fastf1,ZHO,Alfa Romeo,31.0,24.0,100.232,100.124,99.87474999999999,99.449,2.0
+2022,Hungarian Grand Prix,13,fastf1,ALB,Williams,54.0,48.0,85.2535,85.2535,84.79825000000001,83.857,2.0
+2022,Hungarian Grand Prix,13,fastf1,ALO,Alpine,55.0,23.0,85.105,84.533,84.3425,84.209,2.0
+2022,Hungarian Grand Prix,13,fastf1,BOT,Alfa Romeo,51.0,34.0,85.134,84.8895,84.74,84.599,2.0
+2022,Hungarian Grand Prix,13,fastf1,GAS,AlphaTauri,51.0,38.0,85.024,84.8985,84.1315,83.253,2.0
+2022,Hungarian Grand Prix,13,fastf1,HAM,Mercedes,53.0,40.0,83.669,83.64,83.4285,81.685,2.0
+2022,Hungarian Grand Prix,13,fastf1,LAT,Williams,48.0,38.0,85.5155,85.5155,84.6615,82.913,2.0
+2022,Hungarian Grand Prix,13,fastf1,LEC,Ferrari,50.0,30.0,83.697,83.2465,82.25375,81.89,2.0
+2022,Hungarian Grand Prix,13,fastf1,MAG,Haas F1 Team,49.0,38.0,85.661,85.6935,84.64325,84.066,2.0
+2022,Hungarian Grand Prix,13,fastf1,MSC,Haas F1 Team,48.0,39.0,85.54599999999999,85.545,83.8075,83.532,2.0
+2022,Hungarian Grand Prix,13,fastf1,NOR,McLaren,53.0,49.0,84.274,84.274,83.866,83.397,2.0
+2022,Hungarian Grand Prix,13,fastf1,OCO,Alpine,56.0,47.0,85.2005,85.096,84.68549999999999,84.484,2.0
+2022,Hungarian Grand Prix,13,fastf1,PER,Red Bull Racing,52.0,46.0,83.62299999999999,83.40450000000001,82.69475,82.32,2.0
+2022,Hungarian Grand Prix,13,fastf1,RIC,McLaren,53.0,47.0,85.062,85.07,84.61349999999999,83.745,2.0
+2022,Hungarian Grand Prix,13,fastf1,RUS,Mercedes,53.0,42.0,83.854,83.88900000000001,83.491,82.907,2.0
+2022,Hungarian Grand Prix,13,fastf1,SAI,Ferrari,54.0,38.0,83.898,83.792,83.55375000000001,82.491,2.0
+2022,Hungarian Grand Prix,13,fastf1,STR,Aston Martin,53.0,24.0,84.817,84.36449999999999,83.24350000000001,82.84,2.0
+2022,Hungarian Grand Prix,13,fastf1,TSU,AlphaTauri,48.0,34.0,85.48349999999999,85.141,84.62675,84.177,2.0
+2022,Hungarian Grand Prix,13,fastf1,VER,Red Bull Racing,54.0,37.0,83.4625,83.098,82.831,82.646,2.0
+2022,Hungarian Grand Prix,13,fastf1,VET,Aston Martin,53.0,22.0,84.94,84.9145,83.60525,82.907,2.0
+2022,Hungarian Grand Prix,13,fastf1,ZHO,Alfa Romeo,49.0,18.0,85.326,83.8395,82.46525,82.271,2.0
+2022,Belgian Grand Prix,14,fastf1,ALB,Williams,32.0,26.0,114.6485,114.51400000000001,114.20025,113.989,2.0
+2022,Belgian Grand Prix,14,fastf1,ALO,Alpine,32.0,27.0,114.05449999999999,113.793,113.26400000000001,113.078,2.0
+2022,Belgian Grand Prix,14,fastf1,GAS,AlphaTauri,31.0,22.0,114.254,114.0865,113.8655,113.578,2.0
+2022,Belgian Grand Prix,14,fastf1,LAT,Williams,31.0,18.0,115.717,115.3625,113.038,112.358,2.0
+2022,Belgian Grand Prix,14,fastf1,LEC,Ferrari,33.0,22.0,114.575,113.4015,112.5795,112.014,2.0
+2022,Belgian Grand Prix,14,fastf1,MAG,Haas F1 Team,31.0,27.0,114.628,114.5,114.211,114.031,2.0
+2022,Belgian Grand Prix,14,fastf1,MSC,Haas F1 Team,30.0,22.0,115.2885,114.7575,113.29375,112.913,2.0
+2022,Belgian Grand Prix,14,fastf1,NOR,McLaren,31.0,5.0,115.015,115.916,115.516,115.916,2.0
+2022,Belgian Grand Prix,14,fastf1,OCO,Alpine,31.0,22.0,114.576,114.396,112.763,112.149,2.0
+2022,Belgian Grand Prix,14,fastf1,PER,Red Bull Racing,32.0,24.0,112.68950000000001,112.4915,112.0985,111.66,2.0
+2022,Belgian Grand Prix,14,fastf1,RIC,McLaren,32.0,6.0,115.074,115.055,114.69725,115.04,2.0
+2022,Belgian Grand Prix,14,fastf1,RUS,Mercedes,30.0,27.0,113.24950000000001,113.197,112.298,111.627,2.0
+2022,Belgian Grand Prix,14,fastf1,SAI,Ferrari,32.0,31.0,112.7175,112.71,112.4005,112.213,2.0
+2022,Belgian Grand Prix,14,fastf1,STR,Aston Martin,29.0,2.0,114.698,116.28999999999999,116.091,,2.0
+2022,Belgian Grand Prix,14,fastf1,TSU,AlphaTauri,32.0,12.0,114.4225,114.119,113.89425,113.793,2.0
+2022,Belgian Grand Prix,14,fastf1,VER,Red Bull Racing,32.0,28.0,112.4245,112.26650000000001,111.8135,111.144,2.0
+2022,Belgian Grand Prix,14,fastf1,VET,Aston Martin,32.0,21.0,114.50800000000001,114.454,112.988,112.765,2.0
+2022,Belgian Grand Prix,14,fastf1,ZHO,Alfa Romeo,31.0,3.0,114.997,115.991,115.6845,,2.0
+2022,Dutch Grand Prix,15,fastf1,ALB,Williams,49.0,36.0,77.451,77.3415,77.00075000000001,75.768,2.0
+2022,Dutch Grand Prix,15,fastf1,ALO,Alpine,51.0,12.0,76.845,76.6755,76.5895,76.558,2.0
+2022,Dutch Grand Prix,15,fastf1,BOT,Alfa Romeo,35.0,18.0,77.526,77.1455,77.06800000000001,77.005,2.0
+2022,Dutch Grand Prix,15,fastf1,GAS,AlphaTauri,47.0,23.0,77.23,76.53,76.38,76.261,2.0
+2022,Dutch Grand Prix,15,fastf1,HAM,Mercedes,49.0,34.0,76.063,75.91,75.18325,74.079,2.0
+2022,Dutch Grand Prix,15,fastf1,LAT,Williams,47.0,42.0,78.194,77.8035,77.31,76.334,2.0
+2022,Dutch Grand Prix,15,fastf1,LEC,Ferrari,48.0,36.0,76.3715,76.3715,76.098,74.635,2.0
+2022,Dutch Grand Prix,15,fastf1,MAG,Haas F1 Team,48.0,26.0,77.6045,76.85,76.3425,75.413,2.0
+2022,Dutch Grand Prix,15,fastf1,MSC,Haas F1 Team,48.0,28.0,77.34649999999999,77.668,76.82525,75.671,2.0
+2022,Dutch Grand Prix,15,fastf1,NOR,McLaren,52.0,36.0,76.881,77.14699999999999,76.8425,76.715,2.0
+2022,Dutch Grand Prix,15,fastf1,OCO,Alpine,54.0,37.0,76.90700000000001,76.939,76.801,76.563,2.0
+2022,Dutch Grand Prix,15,fastf1,PER,Red Bull Racing,48.0,33.0,76.33250000000001,76.394,76.026,75.111,2.0
+2022,Dutch Grand Prix,15,fastf1,RIC,McLaren,47.0,10.0,77.85,76.82300000000001,76.07624999999999,75.859,2.0
+2022,Dutch Grand Prix,15,fastf1,RUS,Mercedes,49.0,34.0,76.51,75.5305,74.3425,73.947,2.0
+2022,Dutch Grand Prix,15,fastf1,SAI,Ferrari,52.0,43.0,76.8185,76.861,76.374,75.18,2.0
+2022,Dutch Grand Prix,15,fastf1,STR,Aston Martin,49.0,30.0,77.004,77.0325,76.28025,75.773,2.0
+2022,Dutch Grand Prix,15,fastf1,TSU,AlphaTauri,33.0,26.0,77.542,77.4875,77.3745,77.276,2.0
+2022,Dutch Grand Prix,15,fastf1,VER,Red Bull Racing,50.0,47.0,76.1105,76.127,74.59450000000001,73.891,2.0
+2022,Dutch Grand Prix,15,fastf1,VET,Aston Martin,45.0,26.0,77.555,77.777,77.03375,76.335,2.0
+2022,Dutch Grand Prix,15,fastf1,ZHO,Alfa Romeo,46.0,11.0,77.521,77.424,76.7915,76.711,2.0
+2022,Italian Grand Prix,16,fastf1,ALO,Alpine,26.0,7.0,87.61099999999999,87.615,87.5175,87.583,2.0
+2022,Italian Grand Prix,16,fastf1,BOT,Alfa Romeo,37.0,16.0,87.602,87.3125,86.21825,86.105,2.0
+2022,Italian Grand Prix,16,fastf1,DEV,Williams,38.0,0.0,87.326,,,,2.0
+2022,Italian Grand Prix,16,fastf1,GAS,AlphaTauri,36.0,4.0,87.214,86.7755,86.73075,,2.0
+2022,Italian Grand Prix,16,fastf1,HAM,Mercedes,38.0,20.0,86.98349999999999,86.649,84.7935,84.49,2.0
+2022,Italian Grand Prix,16,fastf1,LAT,Williams,37.0,21.0,87.331,87.316,87.22,87.071,2.0
+2022,Italian Grand Prix,16,fastf1,LEC,Ferrari,38.0,38.0,85.49000000000001,85.49000000000001,84.96725,84.452,2.0
+2022,Italian Grand Prix,16,fastf1,MAG,Haas F1 Team,38.0,24.0,87.85749999999999,87.32,87.08024999999999,86.976,2.0
+2022,Italian Grand Prix,16,fastf1,MSC,Haas F1 Team,37.0,19.0,87.525,87.491,87.1155,86.264,2.0
+2022,Italian Grand Prix,16,fastf1,NOR,McLaren,38.0,24.0,87.08099999999999,86.91499999999999,85.07,84.825,2.0
+2022,Italian Grand Prix,16,fastf1,OCO,Alpine,38.0,20.0,87.15100000000001,86.91550000000001,86.843,86.703,2.0
+2022,Italian Grand Prix,16,fastf1,PER,Red Bull Racing,35.0,24.0,86.172,86.099,85.96,85.572,2.0
+2022,Italian Grand Prix,16,fastf1,RIC,McLaren,36.0,29.0,87.1955,87.207,86.918,86.751,2.0
+2022,Italian Grand Prix,16,fastf1,RUS,Mercedes,38.0,33.0,86.0695,86.052,85.792,85.431,2.0
+2022,Italian Grand Prix,16,fastf1,SAI,Ferrari,39.0,30.0,86.59,86.5565,84.69775,84.498,2.0
+2022,Italian Grand Prix,16,fastf1,STR,Aston Martin,31.0,19.0,87.761,87.694,87.5135,87.491,2.0
+2022,Italian Grand Prix,16,fastf1,TSU,AlphaTauri,37.0,21.0,87.286,87.105,87.032,86.93,2.0
+2022,Italian Grand Prix,16,fastf1,VER,Red Bull Racing,39.0,31.0,85.297,85.122,84.881,84.815,2.0
+2022,Italian Grand Prix,16,fastf1,VET,Aston Martin,8.0,0.0,87.94200000000001,,,,2.0
+2022,Italian Grand Prix,16,fastf1,ZHO,Alfa Romeo,38.0,0.0,87.27950000000001,,,,2.0
+2022,Singapore Grand Prix,17,fastf1,ALB,Williams,12.0,12.0,123.10900000000001,123.10900000000001,122.97999999999999,122.806,2.0
+2022,Singapore Grand Prix,17,fastf1,ALO,Alpine,14.0,12.0,121.65899999999999,121.4495,120.8605,120.709,2.0
+2022,Singapore Grand Prix,17,fastf1,BOT,Alfa Romeo,37.0,20.0,117.085,113.9285,112.69675000000001,112.262,2.0
+2022,Singapore Grand Prix,17,fastf1,GAS,AlphaTauri,37.0,32.0,116.624,119.6435,112.568,110.836,2.0
+2022,Singapore Grand Prix,17,fastf1,HAM,Mercedes,36.0,6.0,116.00399999999999,121.2175,115.79325,120.981,2.0
+2022,Singapore Grand Prix,17,fastf1,LAT,Williams,4.0,3.0,126.5435,126.2,125.8925,,2.0
+2022,Singapore Grand Prix,17,fastf1,LEC,Ferrari,35.0,12.0,112.533,109.735,109.015,109.012,2.0
+2022,Singapore Grand Prix,17,fastf1,MAG,Haas F1 Team,33.0,25.0,115.982,114.003,113.041,112.228,2.0
+2022,Singapore Grand Prix,17,fastf1,MSC,Haas F1 Team,31.0,18.0,120.225,112.758,111.6845,111.132,2.0
+2022,Singapore Grand Prix,17,fastf1,NOR,McLaren,38.0,31.0,118.5575,119.302,110.34,109.749,2.0
+2022,Singapore Grand Prix,17,fastf1,OCO,Alpine,16.0,0.0,122.821,,,,2.0
+2022,Singapore Grand Prix,17,fastf1,PER,Red Bull Racing,38.0,38.0,114.97999999999999,114.97999999999999,109.51625,108.576,2.0
+2022,Singapore Grand Prix,17,fastf1,RIC,McLaren,37.0,23.0,116.357,112.198,111.60499999999999,111.076,2.0
+2022,Singapore Grand Prix,17,fastf1,RUS,Mercedes,29.0,16.0,122.174,115.3725,111.65625,110.505,2.0
+2022,Singapore Grand Prix,17,fastf1,SAI,Ferrari,37.0,36.0,114.98,114.6105,109.9245,108.746,2.0
+2022,Singapore Grand Prix,17,fastf1,STR,Aston Martin,38.0,30.0,117.914,115.1335,111.61949999999999,110.708,2.0
+2022,Singapore Grand Prix,17,fastf1,TSU,AlphaTauri,18.0,14.0,122.69149999999999,122.09,121.25399999999999,120.864,2.0
+2022,Singapore Grand Prix,17,fastf1,VER,Red Bull Racing,36.0,8.0,118.5805,110.842,110.39325,110.508,2.0
+2022,Singapore Grand Prix,17,fastf1,VET,Aston Martin,37.0,9.0,117.462,112.233,111.449,111.449,2.0
+2022,Singapore Grand Prix,17,fastf1,ZHO,Alfa Romeo,4.0,0.0,126.197,,,,2.0
+2022,Japanese Grand Prix,18,fastf1,ALO,Alpine,16.0,3.0,108.215,105.047,104.7295,,2.0
+2022,Japanese Grand Prix,18,fastf1,BOT,Alfa Romeo,20.0,0.0,110.30799999999999,,,,2.0
+2022,Japanese Grand Prix,18,fastf1,GAS,AlphaTauri,16.0,2.0,109.41,106.0365,105.71175,,2.0
+2022,Japanese Grand Prix,18,fastf1,HAM,Mercedes,19.0,0.0,108.915,,,,2.0
+2022,Japanese Grand Prix,18,fastf1,LAT,Williams,21.0,17.0,109.947,109.954,109.155,108.641,2.0
+2022,Japanese Grand Prix,18,fastf1,LEC,Ferrari,17.0,17.0,108.678,108.678,108.44,108.247,2.0
+2022,Japanese Grand Prix,18,fastf1,MAG,Haas F1 Team,19.0,16.0,110.283,110.3,110.0075,109.649,2.0
+2022,Japanese Grand Prix,18,fastf1,MSC,Haas F1 Team,19.0,13.0,110.332,110.227,109.17,108.285,2.0
+2022,Japanese Grand Prix,18,fastf1,NOR,McLaren,20.0,10.0,109.818,109.6805,109.4125,109.358,2.0
+2022,Japanese Grand Prix,18,fastf1,OCO,Alpine,19.0,19.0,109.012,109.012,108.14099999999999,107.152,2.0
+2022,Japanese Grand Prix,18,fastf1,PER,Red Bull Racing,19.0,12.0,108.126,107.3625,107.112,107.088,2.0
+2022,Japanese Grand Prix,18,fastf1,RIC,McLaren,19.0,12.0,109.565,109.6655,109.51675,109.453,2.0
+2022,Japanese Grand Prix,18,fastf1,RUS,Mercedes,19.0,10.0,108.416,108.076,107.6745,107.663,2.0
+2022,Japanese Grand Prix,18,fastf1,STR,Aston Martin,14.0,5.0,108.871,107.493,107.304,107.493,2.0
+2022,Japanese Grand Prix,18,fastf1,TSU,AlphaTauri,16.0,5.0,108.8715,107.606,107.181,107.606,2.0
+2022,Japanese Grand Prix,18,fastf1,VER,Red Bull Racing,15.0,15.0,107.598,107.598,107.46600000000001,107.35,2.0
+2022,Japanese Grand Prix,18,fastf1,VET,Aston Martin,21.0,17.0,108.978,108.978,108.222,107.053,2.0
+2022,Japanese Grand Prix,18,fastf1,ZHO,Alfa Romeo,16.0,2.0,109.877,108.5815,107.66475,,2.0
+2022,United States Grand Prix,19,fastf1,ALB,Williams,41.0,17.0,103.818,103.572,103.243,102.622,2.0
+2022,United States Grand Prix,19,fastf1,ALO,Alpine,45.0,24.0,103.27,103.4305,102.41725,102.152,2.0
+2022,United States Grand Prix,19,fastf1,BOT,Alfa Romeo,11.0,0.0,104.13,,,,2.0
+2022,United States Grand Prix,19,fastf1,GAS,AlphaTauri,38.0,19.0,102.96799999999999,102.876,102.55199999999999,102.348,2.0
+2022,United States Grand Prix,19,fastf1,HAM,Mercedes,39.0,26.0,101.31,101.751,100.53800000000001,100.232,2.0
+2022,United States Grand Prix,19,fastf1,LAT,Williams,41.0,28.0,104.485,104.2745,103.905,103.641,2.0
+2022,United States Grand Prix,19,fastf1,LEC,Ferrari,42.0,23.0,101.5875,101.25,100.634,100.49,2.0
+2022,United States Grand Prix,19,fastf1,MAG,Haas F1 Team,43.0,34.0,103.752,103.4175,102.92175,102.709,2.0
+2022,United States Grand Prix,19,fastf1,MSC,Haas F1 Team,41.0,17.0,103.436,103.093,102.899,102.627,2.0
+2022,United States Grand Prix,19,fastf1,NOR,McLaren,39.0,9.0,102.596,102.378,101.884,101.884,2.0
+2022,United States Grand Prix,19,fastf1,OCO,Alpine,41.0,18.0,103.733,103.17,101.946,101.366,2.0
+2022,United States Grand Prix,19,fastf1,PER,Red Bull Racing,40.0,15.0,101.76650000000001,100.31,99.989,99.901,2.0
+2022,United States Grand Prix,19,fastf1,RIC,McLaren,38.0,21.0,103.98500000000001,102.92,102.793,102.648,2.0
+2022,United States Grand Prix,19,fastf1,RUS,Mercedes,37.0,24.0,101.987,101.5225,100.97,100.763,2.0
+2022,United States Grand Prix,19,fastf1,STR,Aston Martin,12.0,8.0,103.9205,103.8155,103.56075,103.649,2.0
+2022,United States Grand Prix,19,fastf1,TSU,AlphaTauri,39.0,4.0,103.233,102.591,102.43924999999999,,2.0
+2022,United States Grand Prix,19,fastf1,VER,Red Bull Racing,40.0,35.0,101.11449999999999,101.338,100.3735,99.986,2.0
+2022,United States Grand Prix,19,fastf1,VET,Aston Martin,42.0,21.0,102.486,102.332,102.032,101.924,2.0
+2022,United States Grand Prix,19,fastf1,ZHO,Alfa Romeo,40.0,11.0,103.7795,103.741,102.96549999999999,102.81,2.0
+2022,Mexico City Grand Prix,20,fastf1,ALB,Williams,61.0,40.0,84.76,84.64150000000001,83.357,83.046,2.0
+2022,Mexico City Grand Prix,20,fastf1,ALO,Alpine,58.0,54.0,84.38900000000001,84.36449999999999,84.05675,82.933,2.0
+2022,Mexico City Grand Prix,20,fastf1,BOT,Alfa Romeo,62.0,35.0,84.35,84.229,83.971,83.606,2.0
+2022,Mexico City Grand Prix,20,fastf1,GAS,AlphaTauri,62.0,20.0,84.685,84.65,83.0345,82.842,2.0
+2022,Mexico City Grand Prix,20,fastf1,HAM,Mercedes,64.0,49.0,83.00800000000001,82.71,82.478,82.256,2.0
+2022,Mexico City Grand Prix,20,fastf1,LAT,Williams,57.0,43.0,85.331,85.135,84.9135,84.027,2.0
+2022,Mexico City Grand Prix,20,fastf1,LEC,Ferrari,63.0,54.0,83.488,83.3415,82.97425,82.688,2.0
+2022,Mexico City Grand Prix,20,fastf1,MAG,Haas F1 Team,60.0,47.0,85.0325,84.862,83.805,83.598,2.0
+2022,Mexico City Grand Prix,20,fastf1,MSC,Haas F1 Team,57.0,50.0,84.406,84.30000000000001,84.10300000000001,83.695,2.0
+2022,Mexico City Grand Prix,20,fastf1,NOR,McLaren,62.0,25.0,84.39500000000001,84.463,83.767,83.495,2.0
+2022,Mexico City Grand Prix,20,fastf1,OCO,Alpine,61.0,43.0,84.439,84.245,83.733,83.384,2.0
+2022,Mexico City Grand Prix,20,fastf1,PER,Red Bull Racing,64.0,29.0,82.901,83.202,82.718,82.491,2.0
+2022,Mexico City Grand Prix,20,fastf1,RIC,McLaren,59.0,32.0,84.528,84.42150000000001,82.80325,82.662,2.0
+2022,Mexico City Grand Prix,20,fastf1,RUS,Mercedes,61.0,46.0,83.079,82.90100000000001,82.52550000000001,82.256,2.0
+2022,Mexico City Grand Prix,20,fastf1,SAI,Ferrari,64.0,57.0,83.39750000000001,83.429,83.082,82.597,2.0
+2022,Mexico City Grand Prix,20,fastf1,STR,Aston Martin,56.0,38.0,84.273,84.057,83.53275,83.287,2.0
+2022,Mexico City Grand Prix,20,fastf1,TSU,AlphaTauri,44.0,18.0,84.6885,84.73949999999999,84.28025000000001,83.914,2.0
+2022,Mexico City Grand Prix,20,fastf1,VER,Red Bull Racing,64.0,64.0,82.55850000000001,82.55850000000001,82.42,82.105,2.0
+2022,Mexico City Grand Prix,20,fastf1,VET,Aston Martin,61.0,31.0,84.852,84.463,83.4115,83.111,2.0
+2022,Mexico City Grand Prix,20,fastf1,ZHO,Alfa Romeo,63.0,39.0,84.787,84.791,84.5435,83.544,2.0
+2022,São Paulo Grand Prix,21,fastf1,ALB,Williams,46.0,34.0,77.60749999999999,77.402,76.731,76.253,2.0
+2022,São Paulo Grand Prix,21,fastf1,ALO,Alpine,48.0,22.0,76.2635,76.604,76.1485,75.97,2.0
+2022,São Paulo Grand Prix,21,fastf1,BOT,Alfa Romeo,48.0,23.0,76.85900000000001,76.592,75.9135,75.587,2.0
+2022,São Paulo Grand Prix,21,fastf1,GAS,AlphaTauri,46.0,24.0,77.2055,77.3295,76.7825,76.608,2.0
+2022,São Paulo Grand Prix,21,fastf1,HAM,Mercedes,49.0,27.0,75.86,76.308,75.684,75.474,2.0
+2022,São Paulo Grand Prix,21,fastf1,LAT,Williams,46.0,35.0,77.76599999999999,77.762,77.399,75.957,2.0
+2022,São Paulo Grand Prix,21,fastf1,LEC,Ferrari,47.0,26.0,76.136,76.1015,75.16075000000001,74.637,2.0
+2022,São Paulo Grand Prix,21,fastf1,MSC,Haas F1 Team,47.0,19.0,77.242,77.174,76.89099999999999,75.651,2.0
+2022,São Paulo Grand Prix,21,fastf1,NOR,McLaren,36.0,22.0,77.22550000000001,77.24350000000001,76.94,76.14,2.0
+2022,São Paulo Grand Prix,21,fastf1,OCO,Alpine,48.0,14.0,76.964,75.696,75.291,75.169,2.0
+2022,São Paulo Grand Prix,21,fastf1,PER,Red Bull Racing,47.0,31.0,76.231,76.291,76.1215,75.042,2.0
+2022,São Paulo Grand Prix,21,fastf1,RUS,Mercedes,48.0,48.0,76.04599999999999,76.04599999999999,75.5035,73.881,2.0
+2022,São Paulo Grand Prix,21,fastf1,SAI,Ferrari,48.0,38.0,75.975,75.7985,75.031,74.19,2.0
+2022,São Paulo Grand Prix,21,fastf1,STR,Aston Martin,46.0,20.0,77.1075,77.577,76.8965,76.738,2.0
+2022,São Paulo Grand Prix,21,fastf1,TSU,AlphaTauri,47.0,34.0,77.234,76.8245,76.38875,75.809,2.0
+2022,São Paulo Grand Prix,21,fastf1,VER,Red Bull Racing,45.0,22.0,76.22,76.3215,76.04975,75.866,2.0
+2022,São Paulo Grand Prix,21,fastf1,VET,Aston Martin,47.0,25.0,76.851,77.115,76.787,76.198,2.0
+2022,São Paulo Grand Prix,21,fastf1,ZHO,Alfa Romeo,48.0,17.0,77.12950000000001,77.197,76.555,76.354,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,ALB,Williams,47.0,33.0,91.691,91.585,91.43,90.139,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,ALO,Alpine,21.0,3.0,92.227,90.688,90.6335,,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,BOT,Alfa Romeo,51.0,24.0,92.561,91.325,91.05775,90.566,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,GAS,AlphaTauri,50.0,21.0,91.9525,91.491,91.349,91.249,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,HAM,Mercedes,47.0,34.0,90.346,90.28450000000001,90.14475,89.965,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,LAT,Williams,46.0,39.0,92.228,92.096,91.97749999999999,90.539,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,LEC,Ferrari,52.0,48.0,90.2225,90.1925,89.9745,89.736,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,MAG,Haas F1 Team,51.0,29.0,92.614,91.866,91.501,91.32,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,MSC,Haas F1 Team,48.0,26.0,91.9965,91.572,90.7445,90.416,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,NOR,McLaren,49.0,41.0,91.046,90.93,90.631,88.791,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,OCO,Alpine,48.0,41.0,91.061,91.029,89.641,89.389,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,PER,Red Bull Racing,47.0,37.0,90.185,90.142,89.205,89.089,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,RIC,McLaren,50.0,27.0,91.285,91.18,91.0345,90.935,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,RUS,Mercedes,45.0,35.0,90.471,90.388,89.021,88.847,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,SAI,Ferrari,50.0,39.0,90.424,90.294,89.34299999999999,89.098,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,STR,Aston Martin,48.0,32.0,91.0775,90.979,90.706,89.942,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,TSU,AlphaTauri,50.0,23.0,91.3995,91.215,90.40450000000001,89.975,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,VER,Red Bull Racing,52.0,52.0,90.1125,90.1125,89.8955,89.715,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,VET,Aston Martin,52.0,17.0,91.46199999999999,92.279,90.786,90.69,2.0
+2022,Abu Dhabi Grand Prix,22,fastf1,ZHO,Alfa Romeo,47.0,21.0,91.687,91.937,90.583,90.223,2.0

@@ -1,0 +1,463 @@
+year,event,round,dataset,Driver,Team,valid_laps_n,clean_air_laps_n,lap_time_median_s,clean_air_lap_time_median_s,clean_air_lap_time_p25_s,clean_air_best5_median_s,clean_gap_s
+2024,Bahrain Grand Prix,1,fastf1,ALB,Williams,47.0,24.0,97.869,96.46350000000001,95.97,95.766,2.0
+2024,Bahrain Grand Prix,1,fastf1,ALO,Aston Martin,48.0,36.0,97.1905,97.064,95.20325,94.677,2.0
+2024,Bahrain Grand Prix,1,fastf1,BOT,Kick Sauber,46.0,31.0,97.7475,97.095,96.6465,96.374,2.0
+2024,Bahrain Grand Prix,1,fastf1,GAS,Alpine,43.0,19.0,97.702,95.908,95.4,95.334,2.0
+2024,Bahrain Grand Prix,1,fastf1,HAM,Mercedes,47.0,39.0,96.51,96.165,95.382,94.94,2.0
+2024,Bahrain Grand Prix,1,fastf1,HUL,Haas F1 Team,44.0,41.0,96.75450000000001,96.725,95.921,95.146,2.0
+2024,Bahrain Grand Prix,1,fastf1,LEC,Ferrari,48.0,16.0,96.75800000000001,95.406,95.29275000000001,95.058,2.0
+2024,Bahrain Grand Prix,1,fastf1,MAG,Haas F1 Team,46.0,25.0,97.6695,96.842,96.31,96.042,2.0
+2024,Bahrain Grand Prix,1,fastf1,NOR,McLaren,48.0,42.0,96.53649999999999,96.5655,95.52799999999999,95.069,2.0
+2024,Bahrain Grand Prix,1,fastf1,OCO,Alpine,48.0,35.0,97.8725,97.415,96.69149999999999,96.552,2.0
+2024,Bahrain Grand Prix,1,fastf1,PER,Red Bull Racing,47.0,41.0,96.211,96.037,94.94,94.525,2.0
+2024,Bahrain Grand Prix,1,fastf1,PIA,McLaren,48.0,35.0,96.6105,96.024,95.35849999999999,95.109,2.0
+2024,Bahrain Grand Prix,1,fastf1,RIC,RB,47.0,15.0,97.75,95.578,95.4985,95.475,2.0
+2024,Bahrain Grand Prix,1,fastf1,RUS,Mercedes,47.0,42.0,96.44,96.292,95.55375,95.136,2.0
+2024,Bahrain Grand Prix,1,fastf1,SAI,Ferrari,48.0,37.0,96.096,95.44,95.041,94.739,2.0
+2024,Bahrain Grand Prix,1,fastf1,SAR,Williams,41.0,34.0,97.433,96.7585,96.01225,95.333,2.0
+2024,Bahrain Grand Prix,1,fastf1,STR,Aston Martin,49.0,27.0,96.871,96.564,96.346,96.298,2.0
+2024,Bahrain Grand Prix,1,fastf1,TSU,RB,46.0,12.0,97.4795,97.4725,96.242,96.179,2.0
+2024,Bahrain Grand Prix,1,fastf1,VER,Red Bull Racing,45.0,45.0,95.342,95.342,94.906,94.239,2.0
+2024,Bahrain Grand Prix,1,fastf1,ZHO,Kick Sauber,47.0,34.0,97.394,97.0185,96.70124999999999,96.561,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,ALB,Williams,42.0,9.0,95.217,92.711,92.56,92.56,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,ALO,Aston Martin,43.0,37.0,93.67,93.493,92.662,92.41,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,BEA,Ferrari,43.0,31.0,93.639,93.086,92.664,92.322,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,BOT,Kick Sauber,38.0,20.0,95.4355,93.1845,92.94775,92.903,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,HAM,Mercedes,41.0,18.0,93.693,93.7175,93.5215,93.384,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,HUL,Haas F1 Team,41.0,30.0,94.605,94.09049999999999,92.797,92.43,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,LEC,Ferrari,44.0,27.0,93.1765,92.722,92.554,92.029,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,MAG,Haas F1 Team,43.0,28.0,95.229,93.8415,92.923,92.644,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,NOR,McLaren,41.0,37.0,93.65,93.573,92.502,92.151,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,OCO,Alpine,42.0,10.0,95.2995,93.7365,93.66,93.643,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,PER,Red Bull Racing,43.0,35.0,92.825,92.734,92.4935,92.363,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,PIA,McLaren,44.0,18.0,93.6105,92.63,92.548,92.521,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,RIC,RB,41.0,12.0,95.606,94.95400000000001,94.368,93.75,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,RUS,Mercedes,43.0,1.0,93.643,95.145,95.145,,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,SAR,Williams,42.0,4.0,95.30600000000001,94.10900000000001,93.98725,,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,STR,Aston Martin,3.0,3.0,95.735,95.735,95.64750000000001,,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,TSU,RB,42.0,7.0,95.346,93.644,93.612,93.623,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,VER,Red Bull Racing,44.0,42.0,92.78450000000001,92.768,92.53825,92.163,2.0
+2024,Saudi Arabian Grand Prix,2,fastf1,ZHO,Kick Sauber,37.0,30.0,95.002,94.882,94.1695,92.857,2.0
+2024,Australian Grand Prix,3,fastf1,ALB,Williams,46.0,35.0,82.97049999999999,82.978,82.35900000000001,81.918,2.0
+2024,Australian Grand Prix,3,fastf1,ALO,Aston Martin,47.0,32.0,82.649,82.52199999999999,81.16775000000001,80.752,2.0
+2024,Australian Grand Prix,3,fastf1,BOT,Kick Sauber,42.0,35.0,82.84299999999999,82.609,81.91399999999999,81.533,2.0
+2024,Australian Grand Prix,3,fastf1,GAS,Alpine,41.0,14.0,83.016,81.332,81.2205,81.211,2.0
+2024,Australian Grand Prix,3,fastf1,HAM,Mercedes,10.0,1.0,83.2055,84.295,84.295,,2.0
+2024,Australian Grand Prix,3,fastf1,HUL,Haas F1 Team,47.0,27.0,82.823,82.892,82.023,81.728,2.0
+2024,Australian Grand Prix,3,fastf1,LEC,Ferrari,46.0,34.0,81.8315,80.929,80.42175,79.999,2.0
+2024,Australian Grand Prix,3,fastf1,MAG,Haas F1 Team,45.0,22.0,83.11,82.967,81.6325,81.42,2.0
+2024,Australian Grand Prix,3,fastf1,NOR,McLaren,45.0,36.0,81.692,81.608,80.28725,79.971,2.0
+2024,Australian Grand Prix,3,fastf1,OCO,Alpine,42.0,8.0,82.8965,82.9845,82.70150000000001,82.834,2.0
+2024,Australian Grand Prix,3,fastf1,PER,Red Bull Racing,46.0,37.0,81.84450000000001,81.616,81.038,80.706,2.0
+2024,Australian Grand Prix,3,fastf1,PIA,McLaren,43.0,35.0,81.961,81.871,80.542,80.295,2.0
+2024,Australian Grand Prix,3,fastf1,RIC,RB,45.0,36.0,82.904,82.8905,81.73875000000001,81.313,2.0
+2024,Australian Grand Prix,3,fastf1,RUS,Mercedes,46.0,29.0,82.564,82.591,82.4,82.167,2.0
+2024,Australian Grand Prix,3,fastf1,SAI,Ferrari,48.0,48.0,81.48,81.48,80.85325,80.203,2.0
+2024,Australian Grand Prix,3,fastf1,STR,Aston Martin,45.0,34.0,82.922,82.436,81.24275,81.014,2.0
+2024,Australian Grand Prix,3,fastf1,TSU,RB,45.0,27.0,82.968,81.812,81.6075,81.254,2.0
+2024,Australian Grand Prix,3,fastf1,VER,Red Bull Racing,1.0,0.0,83.115,,,,2.0
+2024,Australian Grand Prix,3,fastf1,ZHO,Kick Sauber,42.0,34.0,83.065,83.0685,82.24549999999999,81.776,2.0
+2024,Japanese Grand Prix,4,fastf1,ALO,Aston Martin,42.0,36.0,97.16,97.00999999999999,95.82225,95.381,2.0
+2024,Japanese Grand Prix,4,fastf1,BOT,Kick Sauber,41.0,4.0,98.058,97.6755,97.43975,,2.0
+2024,Japanese Grand Prix,4,fastf1,GAS,Alpine,41.0,34.0,98.873,98.62450000000001,97.3385,96.759,2.0
+2024,Japanese Grand Prix,4,fastf1,HAM,Mercedes,41.0,21.0,96.707,96.191,95.047,94.791,2.0
+2024,Japanese Grand Prix,4,fastf1,HUL,Haas F1 Team,40.0,19.0,98.54650000000001,98.781,97.235,95.858,2.0
+2024,Japanese Grand Prix,4,fastf1,LEC,Ferrari,45.0,35.0,96.681,96.32,95.703,95.274,2.0
+2024,Japanese Grand Prix,4,fastf1,MAG,Haas F1 Team,44.0,29.0,98.539,98.078,97.662,97.475,2.0
+2024,Japanese Grand Prix,4,fastf1,NOR,McLaren,41.0,23.0,96.375,96.487,95.876,95.635,2.0
+2024,Japanese Grand Prix,4,fastf1,OCO,Alpine,41.0,30.0,98.702,98.07050000000001,97.00175,96.691,2.0
+2024,Japanese Grand Prix,4,fastf1,PER,Red Bull Racing,42.0,36.0,96.612,96.5845,94.99449999999999,94.728,2.0
+2024,Japanese Grand Prix,4,fastf1,PIA,McLaren,42.0,14.0,96.90299999999999,97.383,97.08725000000001,96.822,2.0
+2024,Japanese Grand Prix,4,fastf1,RUS,Mercedes,40.0,19.0,96.72399999999999,96.493,95.724,94.913,2.0
+2024,Japanese Grand Prix,4,fastf1,SAI,Ferrari,42.0,30.0,96.923,96.87299999999999,94.98725,94.419,2.0
+2024,Japanese Grand Prix,4,fastf1,SAR,Williams,39.0,20.0,98.43,96.1995,95.6805,95.35,2.0
+2024,Japanese Grand Prix,4,fastf1,STR,Aston Martin,35.0,15.0,97.361,96.556,96.31700000000001,96.27,2.0
+2024,Japanese Grand Prix,4,fastf1,TSU,RB,40.0,25.0,97.606,97.319,97.073,96.557,2.0
+2024,Japanese Grand Prix,4,fastf1,VER,Red Bull Racing,42.0,40.0,96.393,96.4105,94.94875,94.303,2.0
+2024,Japanese Grand Prix,4,fastf1,ZHO,Kick Sauber,4.0,1.0,99.794,97.5,97.5,,2.0
+2024,Chinese Grand Prix,5,fastf1,ALB,Williams,37.0,4.0,101.67,102.501,101.87950000000001,,2.0
+2024,Chinese Grand Prix,5,fastf1,ALO,Aston Martin,35.0,26.0,100.638,100.7435,100.07175,99.403,2.0
+2024,Chinese Grand Prix,5,fastf1,BOT,Kick Sauber,14.0,2.0,102.577,103.02799999999999,102.817,,2.0
+2024,Chinese Grand Prix,5,fastf1,GAS,Alpine,35.0,21.0,101.373,100.819,100.138,100.024,2.0
+2024,Chinese Grand Prix,5,fastf1,HAM,Mercedes,38.0,4.0,101.4965,102.22900000000001,101.87525000000001,,2.0
+2024,Chinese Grand Prix,5,fastf1,HUL,Haas F1 Team,38.0,17.0,101.63550000000001,101.549,101.346,101.241,2.0
+2024,Chinese Grand Prix,5,fastf1,LEC,Ferrari,41.0,25.0,100.453,100.423,100.171,99.775,2.0
+2024,Chinese Grand Prix,5,fastf1,MAG,Haas F1 Team,36.0,22.0,102.5445,101.741,101.3615,101.298,2.0
+2024,Chinese Grand Prix,5,fastf1,NOR,McLaren,42.0,36.0,100.2505,100.1925,99.6985,99.166,2.0
+2024,Chinese Grand Prix,5,fastf1,OCO,Alpine,38.0,21.0,101.6215,101.592,101.522,101.313,2.0
+2024,Chinese Grand Prix,5,fastf1,PER,Red Bull Racing,35.0,27.0,100.052,100.123,99.876,99.599,2.0
+2024,Chinese Grand Prix,5,fastf1,PIA,McLaren,38.0,25.0,101.49799999999999,101.45,101.294,100.946,2.0
+2024,Chinese Grand Prix,5,fastf1,RIC,RB,15.0,3.0,103.309,103.115,103.0655,,2.0
+2024,Chinese Grand Prix,5,fastf1,RUS,Mercedes,38.0,16.0,100.77600000000001,100.6445,100.3905,100.38,2.0
+2024,Chinese Grand Prix,5,fastf1,SAI,Ferrari,39.0,29.0,100.603,100.497,100.311,100.22,2.0
+2024,Chinese Grand Prix,5,fastf1,SAR,Williams,38.0,17.0,102.4355,102.32,101.914,101.741,2.0
+2024,Chinese Grand Prix,5,fastf1,STR,Aston Martin,35.0,28.0,101.47,100.862,100.3375,99.905,2.0
+2024,Chinese Grand Prix,5,fastf1,TSU,RB,14.0,5.0,102.8615,102.51,102.304,102.51,2.0
+2024,Chinese Grand Prix,5,fastf1,VER,Red Bull Racing,38.0,37.0,99.5495,99.445,99.216,98.742,2.0
+2024,Chinese Grand Prix,5,fastf1,ZHO,Kick Sauber,34.0,22.0,101.61099999999999,101.4065,100.26775,99.636,2.0
+2024,Miami Grand Prix,6,fastf1,ALB,Williams,42.0,4.0,93.5415,92.314,91.86525,,2.0
+2024,Miami Grand Prix,6,fastf1,ALO,Aston Martin,47.0,17.0,93.183,92.536,92.07,91.885,2.0
+2024,Miami Grand Prix,6,fastf1,BOT,Kick Sauber,44.0,16.0,93.396,93.6325,93.3465,92.947,2.0
+2024,Miami Grand Prix,6,fastf1,GAS,Alpine,45.0,20.0,93.007,92.63550000000001,92.474,92.285,2.0
+2024,Miami Grand Prix,6,fastf1,HAM,Mercedes,46.0,13.0,92.399,93.521,93.306,93.048,2.0
+2024,Miami Grand Prix,6,fastf1,HUL,Haas F1 Team,44.0,14.0,93.08500000000001,93.61449999999999,93.33924999999999,92.922,2.0
+2024,Miami Grand Prix,6,fastf1,LEC,Ferrari,46.0,23.0,91.9,91.592,91.4165,91.227,2.0
+2024,Miami Grand Prix,6,fastf1,MAG,Haas F1 Team,46.0,23.0,93.12950000000001,92.462,92.25450000000001,92.074,2.0
+2024,Miami Grand Prix,6,fastf1,NOR,McLaren,48.0,34.0,91.77850000000001,91.2635,91.13425000000001,91.059,2.0
+2024,Miami Grand Prix,6,fastf1,OCO,Alpine,46.0,19.0,93.332,93.497,92.38900000000001,92.267,2.0
+2024,Miami Grand Prix,6,fastf1,PER,Red Bull Racing,44.0,26.0,92.19149999999999,91.61500000000001,91.39825,91.223,2.0
+2024,Miami Grand Prix,6,fastf1,PIA,McLaren,44.0,25.0,92.643,92.93,92.63,91.08,2.0
+2024,Miami Grand Prix,6,fastf1,RIC,RB,47.0,3.0,93.488,93.435,93.325,,2.0
+2024,Miami Grand Prix,6,fastf1,RUS,Mercedes,42.0,17.0,92.6935,92.379,92.175,92.12,2.0
+2024,Miami Grand Prix,6,fastf1,SAI,Ferrari,46.0,24.0,92.38499999999999,91.5565,91.36275,91.052,2.0
+2024,Miami Grand Prix,6,fastf1,SAR,Williams,20.0,3.0,93.819,93.805,93.68,,2.0
+2024,Miami Grand Prix,6,fastf1,STR,Aston Martin,44.0,8.0,93.41749999999999,93.673,92.89775,93.206,2.0
+2024,Miami Grand Prix,6,fastf1,TSU,RB,45.0,25.0,93.08,92.025,91.952,91.893,2.0
+2024,Miami Grand Prix,6,fastf1,VER,Red Bull Racing,44.0,41.0,91.655,91.788,91.455,91.336,2.0
+2024,Miami Grand Prix,6,fastf1,ZHO,Kick Sauber,47.0,11.0,93.644,93.644,92.48949999999999,92.457,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,ALB,Williams,37.0,32.0,81.817,81.773,81.65425,81.347,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,ALO,Aston Martin,44.0,34.0,82.668,82.68700000000001,81.653,80.979,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,BOT,Kick Sauber,53.0,37.0,82.709,82.686,82.36,81.732,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,GAS,Alpine,54.0,30.0,82.39500000000001,82.23750000000001,81.91725,81.633,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,HAM,Mercedes,56.0,34.0,81.2595,80.882,80.656,80.546,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,HUL,Haas F1 Team,57.0,42.0,82.435,82.385,82.18599999999999,82.003,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,LEC,Ferrari,58.0,31.0,80.928,80.645,80.464,80.36,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,MAG,Haas F1 Team,54.0,34.0,82.7115,82.98400000000001,82.34275,81.132,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,NOR,McLaren,58.0,46.0,80.822,80.833,80.60024999999999,80.141,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,OCO,Alpine,56.0,25.0,82.7505,83.006,82.068,82.013,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,PER,Red Bull Racing,55.0,43.0,81.871,81.144,80.37100000000001,79.946,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,PIA,McLaren,58.0,26.0,80.9725,80.822,80.61375000000001,80.413,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,RIC,RB,53.0,23.0,82.261,82.254,82.0535,82.005,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,RUS,Mercedes,55.0,46.0,81.209,81.15700000000001,80.86749999999999,79.616,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,SAI,Ferrari,57.0,49.0,81.066,80.992,80.724,80.496,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,SAR,Williams,56.0,34.0,82.98249999999999,83.0615,82.0985,81.41,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,STR,Aston Martin,56.0,37.0,82.369,82.459,80.896,80.612,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,TSU,RB,56.0,34.0,82.2645,82.154,81.96325,81.828,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,VER,Red Bull Racing,58.0,58.0,80.8085,80.8085,80.6515,80.484,2.0
+2024,Emilia Romagna Grand Prix,7,fastf1,ZHO,Kick Sauber,57.0,34.0,82.942,83.037,82.79225,81.383,2.0
+2024,Monaco Grand Prix,8,fastf1,ALB,Williams,73.0,18.0,80.148,80.199,78.23175,77.85,2.0
+2024,Monaco Grand Prix,8,fastf1,ALO,Aston Martin,72.0,61.0,80.62049999999999,80.317,78.928,78.126,2.0
+2024,Monaco Grand Prix,8,fastf1,BOT,Kick Sauber,69.0,5.0,80.525,80.068,77.829,80.068,2.0
+2024,Monaco Grand Prix,8,fastf1,GAS,Alpine,73.0,57.0,80.229,79.904,79.091,77.516,2.0
+2024,Monaco Grand Prix,8,fastf1,HAM,Mercedes,72.0,47.0,78.51,78.618,77.6865,74.423,2.0
+2024,Monaco Grand Prix,8,fastf1,LEC,Ferrari,74.0,74.0,78.5,78.5,77.09200000000001,75.767,2.0
+2024,Monaco Grand Prix,8,fastf1,NOR,McLaren,74.0,2.0,78.3995,77.549,77.122,,2.0
+2024,Monaco Grand Prix,8,fastf1,PIA,McLaren,74.0,17.0,78.48599999999999,77.126,76.601,76.59,2.0
+2024,Monaco Grand Prix,8,fastf1,RIC,RB,71.0,3.0,80.84,81.761,81.416,,2.0
+2024,Monaco Grand Prix,8,fastf1,RUS,Mercedes,73.0,71.0,78.624,78.45,76.742,75.376,2.0
+2024,Monaco Grand Prix,8,fastf1,SAI,Ferrari,74.0,29.0,78.5565,78.465,77.577,75.159,2.0
+2024,Monaco Grand Prix,8,fastf1,SAR,Williams,65.0,23.0,80.799,77.197,76.32499999999999,75.58,2.0
+2024,Monaco Grand Prix,8,fastf1,STR,Aston Martin,65.0,11.0,79.867,78.296,77.2175,77.156,2.0
+2024,Monaco Grand Prix,8,fastf1,TSU,RB,68.0,58.0,80.187,80.104,79.20150000000001,77.079,2.0
+2024,Monaco Grand Prix,8,fastf1,VER,Red Bull Racing,72.0,30.0,78.5505,78.7385,78.1405,75.238,2.0
+2024,Monaco Grand Prix,8,fastf1,ZHO,Kick Sauber,67.0,17.0,80.911,78.817,78.545,77.173,2.0
+2024,Canadian Grand Prix,9,fastf1,ALB,Williams,36.0,12.0,88.699,87.053,86.68875,86.457,2.0
+2024,Canadian Grand Prix,9,fastf1,ALO,Aston Martin,47.0,41.0,86.318,86.192,79.783,76.691,2.0
+2024,Canadian Grand Prix,9,fastf1,BOT,Kick Sauber,47.0,20.0,87.936,87.5395,80.11,79.042,2.0
+2024,Canadian Grand Prix,9,fastf1,GAS,Alpine,48.0,7.0,87.4115,87.756,85.659,87.412,2.0
+2024,Canadian Grand Prix,9,fastf1,HAM,Mercedes,46.0,6.0,86.451,80.4145,78.686,79.502,2.0
+2024,Canadian Grand Prix,9,fastf1,HUL,Haas F1 Team,44.0,13.0,87.023,87.075,86.395,86.137,2.0
+2024,Canadian Grand Prix,9,fastf1,LEC,Ferrari,26.0,14.0,89.0195,88.50200000000001,87.353,87.107,2.0
+2024,Canadian Grand Prix,9,fastf1,MAG,Haas F1 Team,43.0,10.0,87.433,84.014,79.1605,78.685,2.0
+2024,Canadian Grand Prix,9,fastf1,NOR,McLaren,45.0,26.0,85.777,85.89949999999999,78.211,76.173,2.0
+2024,Canadian Grand Prix,9,fastf1,OCO,Alpine,47.0,17.0,87.561,88.208,79.077,77.902,2.0
+2024,Canadian Grand Prix,9,fastf1,PER,Red Bull Racing,36.0,8.0,88.6545,87.031,85.46375,86.184,2.0
+2024,Canadian Grand Prix,9,fastf1,PIA,McLaren,47.0,22.0,85.804,87.1685,85.361,76.66,2.0
+2024,Canadian Grand Prix,9,fastf1,RIC,RB,47.0,26.0,86.679,86.8215,84.66425,77.234,2.0
+2024,Canadian Grand Prix,9,fastf1,RUS,Mercedes,46.0,26.0,86.827,87.54599999999999,85.5435,83.694,2.0
+2024,Canadian Grand Prix,9,fastf1,SAI,Ferrari,36.0,2.0,88.2745,93.16900000000001,89.515,,2.0
+2024,Canadian Grand Prix,9,fastf1,SAR,Williams,20.0,9.0,89.7385,91.06,89.528,89.528,2.0
+2024,Canadian Grand Prix,9,fastf1,STR,Aston Martin,47.0,20.0,87.075,85.43799999999999,77.61125,77.16,2.0
+2024,Canadian Grand Prix,9,fastf1,TSU,RB,48.0,10.0,87.039,84.559,78.78475,78.764,2.0
+2024,Canadian Grand Prix,9,fastf1,VER,Red Bull Racing,46.0,34.0,86.507,85.1225,77.63125,75.83,2.0
+2024,Canadian Grand Prix,9,fastf1,ZHO,Kick Sauber,45.0,40.0,88.11,87.971,82.25800000000001,78.258,2.0
+2024,Spanish Grand Prix,10,fastf1,ALB,Williams,51.0,35.0,81.416,81.252,80.2615,79.993,2.0
+2024,Spanish Grand Prix,10,fastf1,ALO,Aston Martin,57.0,27.0,81.093,80.539,79.6285,79.28,2.0
+2024,Spanish Grand Prix,10,fastf1,BOT,Kick Sauber,53.0,42.0,81.338,81.195,80.7785,80.39,2.0
+2024,Spanish Grand Prix,10,fastf1,GAS,Alpine,55.0,52.0,80.396,80.18299999999999,79.582,79.079,2.0
+2024,Spanish Grand Prix,10,fastf1,HAM,Mercedes,58.0,24.0,79.915,78.9755,78.632,78.432,2.0
+2024,Spanish Grand Prix,10,fastf1,HUL,Haas F1 Team,58.0,35.0,80.9755,81.137,80.8315,79.023,2.0
+2024,Spanish Grand Prix,10,fastf1,LEC,Ferrari,58.0,36.0,79.72800000000001,79.59649999999999,78.54650000000001,78.179,2.0
+2024,Spanish Grand Prix,10,fastf1,MAG,Haas F1 Team,56.0,21.0,81.1855,81.287,80.796,80.298,2.0
+2024,Spanish Grand Prix,10,fastf1,NOR,McLaren,58.0,35.0,79.701,78.911,78.0335,77.654,2.0
+2024,Spanish Grand Prix,10,fastf1,OCO,Alpine,58.0,47.0,80.6165,80.224,79.6075,79.26,2.0
+2024,Spanish Grand Prix,10,fastf1,PER,Red Bull Racing,55.0,29.0,79.688,79.367,78.936,78.43,2.0
+2024,Spanish Grand Prix,10,fastf1,PIA,McLaren,58.0,40.0,79.864,79.6575,78.32600000000001,77.977,2.0
+2024,Spanish Grand Prix,10,fastf1,RIC,RB,57.0,39.0,81.337,81.17,80.9375,79.556,2.0
+2024,Spanish Grand Prix,10,fastf1,RUS,Mercedes,57.0,45.0,79.772,79.751,79.033,78.486,2.0
+2024,Spanish Grand Prix,10,fastf1,SAI,Ferrari,56.0,38.0,79.901,79.2885,79.064,78.909,2.0
+2024,Spanish Grand Prix,10,fastf1,SAR,Williams,56.0,45.0,82.189,81.622,81.077,80.416,2.0
+2024,Spanish Grand Prix,10,fastf1,STR,Aston Martin,55.0,42.0,81.244,81.03649999999999,79.755,79.488,2.0
+2024,Spanish Grand Prix,10,fastf1,TSU,RB,50.0,35.0,80.9505,80.875,80.2485,79.564,2.0
+2024,Spanish Grand Prix,10,fastf1,VER,Red Bull Racing,55.0,54.0,79.807,79.805,78.3555,77.958,2.0
+2024,Spanish Grand Prix,10,fastf1,ZHO,Kick Sauber,56.0,37.0,81.242,80.469,79.544,79.138,2.0
+2024,Austrian Grand Prix,11,fastf1,ALB,Williams,56.0,31.0,71.4195,71.28,70.9245,70.676,2.0
+2024,Austrian Grand Prix,11,fastf1,ALO,Aston Martin,55.0,17.0,71.485,71.336,70.908,70.737,2.0
+2024,Austrian Grand Prix,11,fastf1,BOT,Kick Sauber,59.0,39.0,71.604,71.607,71.364,71.085,2.0
+2024,Austrian Grand Prix,11,fastf1,GAS,Alpine,60.0,5.0,71.195,71.817,70.594,71.817,2.0
+2024,Austrian Grand Prix,11,fastf1,HAM,Mercedes,60.0,39.0,70.658,70.413,70.1165,69.792,2.0
+2024,Austrian Grand Prix,11,fastf1,HUL,Haas F1 Team,60.0,46.0,71.147,71.01249999999999,70.66675,70.341,2.0
+2024,Austrian Grand Prix,11,fastf1,LEC,Ferrari,57.0,41.0,70.522,70.543,70.308,69.857,2.0
+2024,Austrian Grand Prix,11,fastf1,MAG,Haas F1 Team,60.0,28.0,71.229,71.35849999999999,71.08800000000001,70.808,2.0
+2024,Austrian Grand Prix,11,fastf1,NOR,McLaren,55.0,44.0,70.389,70.4425,70.1015,69.68,2.0
+2024,Austrian Grand Prix,11,fastf1,OCO,Alpine,61.0,28.0,71.375,71.4365,70.93675,70.776,2.0
+2024,Austrian Grand Prix,11,fastf1,PER,Red Bull Racing,60.0,35.0,71.043,71.356,70.9445,70.571,2.0
+2024,Austrian Grand Prix,11,fastf1,PIA,McLaren,61.0,33.0,70.578,70.276,69.532,69.014,2.0
+2024,Austrian Grand Prix,11,fastf1,RIC,RB,60.0,18.0,71.3655,70.89099999999999,70.65275,70.56,2.0
+2024,Austrian Grand Prix,11,fastf1,RUS,Mercedes,61.0,58.0,70.278,70.269,69.94225,69.352,2.0
+2024,Austrian Grand Prix,11,fastf1,SAI,Ferrari,60.0,49.0,70.437,70.239,69.921,69.412,2.0
+2024,Austrian Grand Prix,11,fastf1,SAR,Williams,52.0,51.0,71.9485,71.943,71.458,70.644,2.0
+2024,Austrian Grand Prix,11,fastf1,STR,Aston Martin,58.0,28.0,71.44,71.43,70.6845,70.435,2.0
+2024,Austrian Grand Prix,11,fastf1,TSU,RB,58.0,41.0,71.4345,71.232,70.845,70.587,2.0
+2024,Austrian Grand Prix,11,fastf1,VER,Red Bull Racing,59.0,59.0,70.22,70.22,69.55199999999999,68.321,2.0
+2024,Austrian Grand Prix,11,fastf1,ZHO,Kick Sauber,57.0,49.0,71.793,71.663,71.042,70.748,2.0
+2024,British Grand Prix,12,fastf1,ALB,Williams,39.0,16.0,92.933,95.3395,90.041,89.916,2.0
+2024,British Grand Prix,12,fastf1,ALO,Aston Martin,38.0,21.0,92.58449999999999,90.727,90.114,89.871,2.0
+2024,British Grand Prix,12,fastf1,BOT,Kick Sauber,39.0,33.0,93.648,93.768,93.156,91.431,2.0
+2024,British Grand Prix,12,fastf1,HAM,Mercedes,38.0,19.0,91.5865,89.793,89.654,89.579,2.0
+2024,British Grand Prix,12,fastf1,HUL,Haas F1 Team,39.0,25.0,92.612,92.612,90.392,90.048,2.0
+2024,British Grand Prix,12,fastf1,LEC,Ferrari,38.0,26.0,92.57900000000001,92.839,90.33875,89.911,2.0
+2024,British Grand Prix,12,fastf1,MAG,Haas F1 Team,42.0,17.0,92.976,94.661,91.131,90.61,2.0
+2024,British Grand Prix,12,fastf1,NOR,McLaren,38.0,24.0,91.703,91.34450000000001,90.4095,89.752,2.0
+2024,British Grand Prix,12,fastf1,OCO,Alpine,33.0,26.0,94.071,94.6875,91.29225,90.952,2.0
+2024,British Grand Prix,12,fastf1,PER,Red Bull Racing,33.0,21.0,92.772,102.676,90.565,90.229,2.0
+2024,British Grand Prix,12,fastf1,PIA,McLaren,37.0,13.0,91.811,89.283,89.221,89.124,2.0
+2024,British Grand Prix,12,fastf1,RIC,RB,36.0,26.0,93.055,92.86500000000001,91.22075,90.849,2.0
+2024,British Grand Prix,12,fastf1,RUS,Mercedes,20.0,17.0,91.62700000000001,91.626,91.586,91.497,2.0
+2024,British Grand Prix,12,fastf1,SAI,Ferrari,37.0,28.0,92.358,92.36699999999999,89.872,89.553,2.0
+2024,British Grand Prix,12,fastf1,SAR,Williams,40.0,17.0,92.979,92.088,91.201,90.826,2.0
+2024,British Grand Prix,12,fastf1,STR,Aston Martin,39.0,25.0,92.649,92.619,90.161,89.969,2.0
+2024,British Grand Prix,12,fastf1,TSU,RB,41.0,24.0,92.805,92.66,91.29525000000001,90.812,2.0
+2024,British Grand Prix,12,fastf1,VER,Red Bull Racing,38.0,27.0,91.8885,91.894,89.582,89.286,2.0
+2024,British Grand Prix,12,fastf1,ZHO,Kick Sauber,35.0,28.0,95.202,96.714,91.5245,91.151,2.0
+2024,Hungarian Grand Prix,13,fastf1,ALB,Williams,59.0,38.0,84.889,84.5225,84.16300000000001,84.015,2.0
+2024,Hungarian Grand Prix,13,fastf1,ALO,Aston Martin,60.0,43.0,84.3715,84.2,83.68,83.14,2.0
+2024,Hungarian Grand Prix,13,fastf1,BOT,Kick Sauber,59.0,28.0,85.243,84.9915,84.62425,83.411,2.0
+2024,Hungarian Grand Prix,13,fastf1,GAS,Alpine,27.0,19.0,85.703,85.692,85.55850000000001,85.41,2.0
+2024,Hungarian Grand Prix,13,fastf1,HAM,Mercedes,59.0,45.0,83.306,83.1,82.906,82.364,2.0
+2024,Hungarian Grand Prix,13,fastf1,HUL,Haas F1 Team,59.0,50.0,84.978,84.8075,84.034,83.597,2.0
+2024,Hungarian Grand Prix,13,fastf1,LEC,Ferrari,60.0,30.0,83.2515,83.12,82.8755,82.569,2.0
+2024,Hungarian Grand Prix,13,fastf1,MAG,Haas F1 Team,59.0,36.0,85.305,84.388,84.00750000000001,83.729,2.0
+2024,Hungarian Grand Prix,13,fastf1,NOR,McLaren,59.0,46.0,83.456,83.15549999999999,82.183,81.819,2.0
+2024,Hungarian Grand Prix,13,fastf1,OCO,Alpine,53.0,21.0,84.861,84.826,84.238,84.104,2.0
+2024,Hungarian Grand Prix,13,fastf1,PER,Red Bull Racing,59.0,31.0,83.425,82.645,82.0475,81.584,2.0
+2024,Hungarian Grand Prix,13,fastf1,PIA,McLaren,61.0,60.0,83.397,83.4355,82.63875,81.861,2.0
+2024,Hungarian Grand Prix,13,fastf1,RIC,RB,57.0,28.0,84.848,83.82749999999999,83.56325,83.289,2.0
+2024,Hungarian Grand Prix,13,fastf1,RUS,Mercedes,61.0,38.0,84.063,82.926,82.60625,81.563,2.0
+2024,Hungarian Grand Prix,13,fastf1,SAI,Ferrari,61.0,51.0,83.695,83.874,82.924,81.557,2.0
+2024,Hungarian Grand Prix,13,fastf1,SAR,Williams,51.0,10.0,84.975,84.85499999999999,82.82549999999999,82.189,2.0
+2024,Hungarian Grand Prix,13,fastf1,STR,Aston Martin,61.0,30.0,84.463,84.4225,83.031,82.648,2.0
+2024,Hungarian Grand Prix,13,fastf1,TSU,RB,64.0,53.0,84.57900000000001,84.546,84.013,83.59,2.0
+2024,Hungarian Grand Prix,13,fastf1,VER,Red Bull Racing,60.0,27.0,83.651,84.253,83.3065,82.763,2.0
+2024,Hungarian Grand Prix,13,fastf1,ZHO,Kick Sauber,57.0,46.0,85.465,85.38,84.22575,83.865,2.0
+2024,Belgian Grand Prix,14,fastf1,ALB,Williams,35.0,10.0,109.105,109.978,109.8275,109.806,2.0
+2024,Belgian Grand Prix,14,fastf1,ALO,Aston Martin,38.0,28.0,109.2755,108.96799999999999,108.51474999999999,108.157,2.0
+2024,Belgian Grand Prix,14,fastf1,BOT,Kick Sauber,35.0,16.0,109.591,108.811,108.05475,107.777,2.0
+2024,Belgian Grand Prix,14,fastf1,GAS,Alpine,35.0,15.0,109.508,109.392,108.18299999999999,108.011,2.0
+2024,Belgian Grand Prix,14,fastf1,HAM,Mercedes,35.0,27.0,107.91,108.04,107.112,106.856,2.0
+2024,Belgian Grand Prix,14,fastf1,HUL,Haas F1 Team,35.0,21.0,109.612,109.421,109.203,109.074,2.0
+2024,Belgian Grand Prix,14,fastf1,LEC,Ferrari,34.0,20.0,107.9815,107.33250000000001,107.06325,107.023,2.0
+2024,Belgian Grand Prix,14,fastf1,MAG,Haas F1 Team,38.0,22.0,109.5115,108.8875,108.6325,108.437,2.0
+2024,Belgian Grand Prix,14,fastf1,NOR,McLaren,36.0,6.0,108.11500000000001,108.1375,108.06975,108.132,2.0
+2024,Belgian Grand Prix,14,fastf1,OCO,Alpine,35.0,15.0,109.241,108.745,107.9735,107.32,2.0
+2024,Belgian Grand Prix,14,fastf1,PER,Red Bull Racing,30.0,19.0,108.276,108.014,107.7415,107.63,2.0
+2024,Belgian Grand Prix,14,fastf1,PIA,McLaren,33.0,20.0,108.153,108.0665,107.108,106.445,2.0
+2024,Belgian Grand Prix,14,fastf1,RIC,RB,35.0,16.0,108.723,108.225,107.801,107.652,2.0
+2024,Belgian Grand Prix,14,fastf1,RUS,Mercedes,38.0,23.0,107.8575,107.665,107.521,107.315,2.0
+2024,Belgian Grand Prix,14,fastf1,SAI,Ferrari,35.0,22.0,108.355,107.7825,107.19975,106.913,2.0
+2024,Belgian Grand Prix,14,fastf1,SAR,Williams,35.0,26.0,109.134,109.02199999999999,108.49725000000001,108.141,2.0
+2024,Belgian Grand Prix,14,fastf1,STR,Aston Martin,38.0,15.0,109.5765,109.297,108.886,108.766,2.0
+2024,Belgian Grand Prix,14,fastf1,TSU,RB,38.0,25.0,109.50450000000001,109.145,108.964,108.567,2.0
+2024,Belgian Grand Prix,14,fastf1,VER,Red Bull Racing,34.0,7.0,108.037,106.63,106.39,106.417,2.0
+2024,Belgian Grand Prix,14,fastf1,ZHO,Kick Sauber,1.0,1.0,112.376,112.376,112.376,,2.0
+2024,Dutch Grand Prix,15,fastf1,ALB,Williams,61.0,32.0,76.45,76.262,75.10025,74.694,2.0
+2024,Dutch Grand Prix,15,fastf1,ALO,Aston Martin,66.0,36.0,76.35300000000001,76.119,75.64925000000001,75.198,2.0
+2024,Dutch Grand Prix,15,fastf1,BOT,Kick Sauber,59.0,54.0,76.847,76.798,76.39025,76.144,2.0
+2024,Dutch Grand Prix,15,fastf1,GAS,Alpine,63.0,56.0,76.055,76.213,75.47325000000001,75.067,2.0
+2024,Dutch Grand Prix,15,fastf1,HAM,Mercedes,63.0,32.0,75.111,74.849,74.35225,73.977,2.0
+2024,Dutch Grand Prix,15,fastf1,HUL,Haas F1 Team,65.0,44.0,76.315,76.1805,75.916,75.733,2.0
+2024,Dutch Grand Prix,15,fastf1,LEC,Ferrari,67.0,45.0,75.268,75.075,74.89,74.765,2.0
+2024,Dutch Grand Prix,15,fastf1,MAG,Haas F1 Team,62.0,19.0,76.93100000000001,76.991,76.7435,75.504,2.0
+2024,Dutch Grand Prix,15,fastf1,NOR,McLaren,67.0,52.0,74.892,74.7885,74.5935,74.312,2.0
+2024,Dutch Grand Prix,15,fastf1,OCO,Alpine,59.0,40.0,76.151,75.947,75.76650000000001,75.566,2.0
+2024,Dutch Grand Prix,15,fastf1,PER,Red Bull Racing,65.0,46.0,75.287,75.1045,74.93050000000001,74.673,2.0
+2024,Dutch Grand Prix,15,fastf1,PIA,McLaren,67.0,13.0,75.305,75.937,74.536,74.44,2.0
+2024,Dutch Grand Prix,15,fastf1,RIC,RB,65.0,38.0,76.179,75.95349999999999,75.55,75.354,2.0
+2024,Dutch Grand Prix,15,fastf1,RUS,Mercedes,63.0,57.0,75.454,75.361,74.822,74.078,2.0
+2024,Dutch Grand Prix,15,fastf1,SAI,Ferrari,67.0,47.0,75.132,75.149,74.8685,74.507,2.0
+2024,Dutch Grand Prix,15,fastf1,SAR,Williams,64.0,47.0,76.875,76.594,76.3385,75.875,2.0
+2024,Dutch Grand Prix,15,fastf1,STR,Aston Martin,64.0,31.0,76.20150000000001,75.931,75.56649999999999,75.396,2.0
+2024,Dutch Grand Prix,15,fastf1,TSU,RB,63.0,7.0,76.816,76.986,76.85249999999999,76.889,2.0
+2024,Dutch Grand Prix,15,fastf1,VER,Red Bull Racing,66.0,63.0,75.1935,75.153,75.0485,74.822,2.0
+2024,Dutch Grand Prix,15,fastf1,ZHO,Kick Sauber,60.0,52.0,77.474,77.2295,76.40975,75.76,2.0
+2024,Italian Grand Prix,16,fastf1,ALB,Williams,48.0,39.0,85.0235,84.874,84.553,83.955,2.0
+2024,Italian Grand Prix,16,fastf1,ALO,Aston Martin,45.0,19.0,84.882,84.725,83.682,83.245,2.0
+2024,Italian Grand Prix,16,fastf1,BOT,Kick Sauber,47.0,29.0,86.31,86.022,85.081,83.979,2.0
+2024,Italian Grand Prix,16,fastf1,COL,Williams,48.0,35.0,85.06649999999999,84.868,84.644,84.3,2.0
+2024,Italian Grand Prix,16,fastf1,GAS,Alpine,44.0,20.0,85.316,84.7105,84.198,83.923,2.0
+2024,Italian Grand Prix,16,fastf1,HAM,Mercedes,44.0,21.0,83.62049999999999,82.794,82.396,82.176,2.0
+2024,Italian Grand Prix,16,fastf1,HUL,Haas F1 Team,42.0,33.0,85.1785,85.142,83.88,83.449,2.0
+2024,Italian Grand Prix,16,fastf1,LEC,Ferrari,48.0,25.0,83.702,83.597,83.43,83.268,2.0
+2024,Italian Grand Prix,16,fastf1,MAG,Haas F1 Team,48.0,22.0,84.781,84.274,83.79325,83.691,2.0
+2024,Italian Grand Prix,16,fastf1,NOR,McLaren,44.0,18.0,83.525,82.557,82.27725000000001,82.234,2.0
+2024,Italian Grand Prix,16,fastf1,OCO,Alpine,47.0,31.0,86.013,85.267,84.757,84.458,2.0
+2024,Italian Grand Prix,16,fastf1,PER,Red Bull Racing,43.0,22.0,84.511,83.61449999999999,83.4295,83.033,2.0
+2024,Italian Grand Prix,16,fastf1,PIA,McLaren,45.0,42.0,83.456,83.468,82.9925,82.066,2.0
+2024,Italian Grand Prix,16,fastf1,RIC,RB,48.0,35.0,85.0305,84.954,84.7755,84.518,2.0
+2024,Italian Grand Prix,16,fastf1,RUS,Mercedes,41.0,21.0,84.546,82.939,82.419,82.165,2.0
+2024,Italian Grand Prix,16,fastf1,SAI,Ferrari,48.0,39.0,83.87950000000001,83.769,83.488,83.285,2.0
+2024,Italian Grand Prix,16,fastf1,STR,Aston Martin,37.0,16.0,84.947,85.84700000000001,83.81975,83.702,2.0
+2024,Italian Grand Prix,16,fastf1,TSU,RB,4.0,1.0,87.569,88.473,88.473,,2.0
+2024,Italian Grand Prix,16,fastf1,VER,Red Bull Racing,44.0,31.0,83.61949999999999,83.524,83.20400000000001,82.574,2.0
+2024,Italian Grand Prix,16,fastf1,ZHO,Kick Sauber,44.0,34.0,85.8665,85.75999999999999,85.5415,85.451,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,ALB,Williams,40.0,23.0,109.14699999999999,109.115,108.72800000000001,107.953,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,ALO,Aston Martin,42.0,41.0,109.0515,109.047,107.97,107.354,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,BEA,Haas F1 Team,42.0,22.0,108.679,108.646,108.23675,107.883,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,BOT,Kick Sauber,41.0,28.0,109.646,109.461,109.0315,108.742,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,COL,Williams,42.0,17.0,109.124,108.924,107.741,107.476,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,GAS,Alpine,45.0,28.0,109.647,108.94800000000001,108.685,108.2,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,HAM,Mercedes,42.0,7.0,108.545,108.433,108.059,108.29,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,HUL,Haas F1 Team,42.0,29.0,108.602,108.387,108.093,107.827,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,LEC,Ferrari,41.0,15.0,107.858,108.314,107.987,107.893,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,NOR,McLaren,43.0,25.0,108.91,108.709,105.886,105.591,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,OCO,Alpine,45.0,23.0,110.162,109.507,109.1905,108.994,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,PER,Red Bull Racing,41.0,8.0,107.719,108.0575,107.62625,107.632,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,PIA,McLaren,42.0,35.0,107.7965,107.727,107.5375,107.269,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,RIC,RB,45.0,30.0,109.513,108.971,108.67075,108.457,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,RUS,Mercedes,43.0,27.0,108.224,107.988,106.849,106.707,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,SAI,Ferrari,43.0,31.0,107.879,107.746,107.3175,107.072,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,STR,Aston Martin,36.0,19.0,109.47550000000001,109.519,108.869,108.603,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,TSU,RB,8.0,6.0,111.2095,111.108,110.943,111.075,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,VER,Red Bull Racing,42.0,15.0,108.374,107.721,107.1665,107.147,2.0
+2024,Azerbaijan Grand Prix,17,fastf1,ZHO,Kick Sauber,42.0,28.0,110.2965,110.045,109.0255,108.014,2.0
+2024,Singapore Grand Prix,18,fastf1,ALB,Williams,9.0,1.0,99.285,98.74,98.74,,2.0
+2024,Singapore Grand Prix,18,fastf1,ALO,Aston Martin,55.0,30.0,98.542,98.18549999999999,97.99875,97.886,2.0
+2024,Singapore Grand Prix,18,fastf1,BOT,Kick Sauber,54.0,23.0,99.721,100.115,99.9505,99.706,2.0
+2024,Singapore Grand Prix,18,fastf1,COL,Williams,54.0,26.0,98.721,98.9025,98.00750000000001,97.707,2.0
+2024,Singapore Grand Prix,18,fastf1,GAS,Alpine,56.0,30.0,99.48949999999999,99.414,97.68425,97.149,2.0
+2024,Singapore Grand Prix,18,fastf1,HAM,Mercedes,56.0,50.0,98.3015,98.29050000000001,97.94625,97.447,2.0
+2024,Singapore Grand Prix,18,fastf1,HUL,Haas F1 Team,54.0,37.0,98.50049999999999,98.607,98.002,97.811,2.0
+2024,Singapore Grand Prix,18,fastf1,LEC,Ferrari,57.0,21.0,98.582,96.56,95.849,95.716,2.0
+2024,Singapore Grand Prix,18,fastf1,MAG,Haas F1 Team,46.0,21.0,99.2685,99.706,99.274,98.134,2.0
+2024,Singapore Grand Prix,18,fastf1,NOR,McLaren,55.0,55.0,96.82,96.82,96.5865,96.06,2.0
+2024,Singapore Grand Prix,18,fastf1,OCO,Alpine,52.0,37.0,99.043,98.905,98.471,98.079,2.0
+2024,Singapore Grand Prix,18,fastf1,PER,Red Bull Racing,55.0,12.0,98.499,99.43350000000001,99.30825,99.204,2.0
+2024,Singapore Grand Prix,18,fastf1,PIA,McLaren,57.0,37.0,98.149,97.651,96.841,95.995,2.0
+2024,Singapore Grand Prix,18,fastf1,RIC,RB,46.0,33.0,98.97749999999999,98.639,98.263,97.061,2.0
+2024,Singapore Grand Prix,18,fastf1,RUS,Mercedes,53.0,42.0,98.091,97.834,97.43025,97.236,2.0
+2024,Singapore Grand Prix,18,fastf1,SAI,Ferrari,57.0,37.0,98.424,98.275,98.04,97.85,2.0
+2024,Singapore Grand Prix,18,fastf1,STR,Aston Martin,55.0,41.0,99.389,98.917,98.309,97.928,2.0
+2024,Singapore Grand Prix,18,fastf1,TSU,RB,55.0,43.0,98.938,98.95,97.2595,96.767,2.0
+2024,Singapore Grand Prix,18,fastf1,VER,Red Bull Racing,57.0,52.0,97.1,97.0385,96.71125,96.171,2.0
+2024,Singapore Grand Prix,18,fastf1,ZHO,Kick Sauber,55.0,48.0,99.707,99.613,98.27875,97.758,2.0
+2024,United States Grand Prix,19,fastf1,ALB,Williams,41.0,14.0,101.432,99.59200000000001,99.43175000000001,99.353,2.0
+2024,United States Grand Prix,19,fastf1,ALO,Aston Martin,43.0,26.0,100.556,100.03899999999999,99.5615,99.445,2.0
+2024,United States Grand Prix,19,fastf1,BOT,Kick Sauber,40.0,27.0,101.03450000000001,100.909,100.771,100.679,2.0
+2024,United States Grand Prix,19,fastf1,COL,Williams,45.0,28.0,100.451,100.22149999999999,98.27775,97.926,2.0
+2024,United States Grand Prix,19,fastf1,GAS,Alpine,45.0,32.0,100.672,100.0745,99.294,98.769,2.0
+2024,United States Grand Prix,19,fastf1,HUL,Haas F1 Team,45.0,32.0,99.401,99.27199999999999,98.75975,98.512,2.0
+2024,United States Grand Prix,19,fastf1,LAW,RB,45.0,41.0,100.484,100.449,98.631,98.281,2.0
+2024,United States Grand Prix,19,fastf1,LEC,Ferrari,46.0,44.0,98.9915,98.924,98.34325,97.902,2.0
+2024,United States Grand Prix,19,fastf1,MAG,Haas F1 Team,42.0,22.0,100.208,99.613,98.6935,98.325,2.0
+2024,United States Grand Prix,19,fastf1,NOR,McLaren,45.0,30.0,99.194,99.53450000000001,98.31175,97.889,2.0
+2024,United States Grand Prix,19,fastf1,OCO,Alpine,40.0,28.0,101.36500000000001,101.04599999999999,99.979,99.635,2.0
+2024,United States Grand Prix,19,fastf1,PER,Red Bull Racing,45.0,29.0,99.739,99.176,98.803,98.67,2.0
+2024,United States Grand Prix,19,fastf1,PIA,McLaren,45.0,44.0,99.348,99.3235,98.20475,97.954,2.0
+2024,United States Grand Prix,19,fastf1,RUS,Mercedes,45.0,22.0,99.692,99.39099999999999,98.07575,97.955,2.0
+2024,United States Grand Prix,19,fastf1,SAI,Ferrari,46.0,34.0,98.9845,98.619,98.23474999999999,98.082,2.0
+2024,United States Grand Prix,19,fastf1,STR,Aston Martin,43.0,27.0,101.173,100.384,99.90899999999999,99.448,2.0
+2024,United States Grand Prix,19,fastf1,TSU,RB,43.0,27.0,100.706,100.139,99.644,99.361,2.0
+2024,United States Grand Prix,19,fastf1,VER,Red Bull Racing,45.0,42.0,99.067,99.0605,98.646,98.255,2.0
+2024,United States Grand Prix,19,fastf1,ZHO,Kick Sauber,40.0,36.0,101.358,101.25550000000001,100.054,99.596,2.0
+2024,Mexico City Grand Prix,20,fastf1,ALO,Aston Martin,6.0,1.0,83.4965,84.366,84.366,,2.0
+2024,Mexico City Grand Prix,20,fastf1,BOT,Kick Sauber,59.0,39.0,83.191,82.994,81.4045,81.142,2.0
+2024,Mexico City Grand Prix,20,fastf1,COL,Williams,60.0,34.0,82.973,82.782,81.57249999999999,80.795,2.0
+2024,Mexico City Grand Prix,20,fastf1,GAS,Alpine,60.0,40.0,82.371,82.006,81.618,81.42,2.0
+2024,Mexico City Grand Prix,20,fastf1,HAM,Mercedes,60.0,28.0,81.286,81.2645,80.92875,80.546,2.0
+2024,Mexico City Grand Prix,20,fastf1,HUL,Haas F1 Team,59.0,44.0,81.935,81.6925,81.3745,81.225,2.0
+2024,Mexico City Grand Prix,20,fastf1,LAW,RB,52.0,15.0,82.84700000000001,83.088,82.9555,82.777,2.0
+2024,Mexico City Grand Prix,20,fastf1,LEC,Ferrari,57.0,47.0,80.969,80.847,80.602,80.369,2.0
+2024,Mexico City Grand Prix,20,fastf1,MAG,Haas F1 Team,61.0,44.0,81.683,81.263,80.973,80.729,2.0
+2024,Mexico City Grand Prix,20,fastf1,NOR,McLaren,60.0,38.0,80.69200000000001,80.5015,80.36475,79.858,2.0
+2024,Mexico City Grand Prix,20,fastf1,OCO,Alpine,59.0,32.0,83.115,82.97,81.30125,81.159,2.0
+2024,Mexico City Grand Prix,20,fastf1,PER,Red Bull Racing,52.0,31.0,82.399,81.919,81.5565,81.288,2.0
+2024,Mexico City Grand Prix,20,fastf1,PIA,McLaren,59.0,30.0,82.312,80.57050000000001,80.3655,80.206,2.0
+2024,Mexico City Grand Prix,20,fastf1,RUS,Mercedes,61.0,53.0,81.532,81.404,81.096,80.791,2.0
+2024,Mexico City Grand Prix,20,fastf1,SAI,Ferrari,61.0,60.0,80.939,80.8895,80.57549999999999,80.256,2.0
+2024,Mexico City Grand Prix,20,fastf1,STR,Aston Martin,60.0,44.0,82.781,82.07849999999999,81.58574999999999,81.406,2.0
+2024,Mexico City Grand Prix,20,fastf1,VER,Red Bull Racing,59.0,48.0,81.448,81.275,81.11825,80.95,2.0
+2024,Mexico City Grand Prix,20,fastf1,ZHO,Kick Sauber,54.0,34.0,83.412,82.366,81.8235,81.689,2.0
+2024,São Paulo Grand Prix,21,fastf1,ALO,Aston Martin,45.0,29.0,84.175,83.861,83.387,82.968,2.0
+2024,São Paulo Grand Prix,21,fastf1,BEA,Haas F1 Team,46.0,25.0,84.3895,83.601,82.839,82.533,2.0
+2024,São Paulo Grand Prix,21,fastf1,BOT,Kick Sauber,44.0,36.0,84.72399999999999,84.322,83.227,82.911,2.0
+2024,São Paulo Grand Prix,21,fastf1,COL,Williams,20.0,16.0,85.352,85.082,84.8675,84.75,2.0
+2024,São Paulo Grand Prix,21,fastf1,GAS,Alpine,45.0,35.0,83.92,83.033,82.30250000000001,81.783,2.0
+2024,São Paulo Grand Prix,21,fastf1,HAM,Mercedes,46.0,0.0,84.35,,,,2.0
+2024,São Paulo Grand Prix,21,fastf1,HUL,Haas F1 Team,20.0,9.0,84.77600000000001,84.756,84.583,84.583,2.0
+2024,São Paulo Grand Prix,21,fastf1,LAW,RB,45.0,31.0,84.324,83.942,82.691,82.292,2.0
+2024,São Paulo Grand Prix,21,fastf1,LEC,Ferrari,44.0,25.0,84.14099999999999,82.707,81.893,81.675,2.0
+2024,São Paulo Grand Prix,21,fastf1,NOR,McLaren,46.0,10.0,83.875,81.775,81.669,81.64,2.0
+2024,São Paulo Grand Prix,21,fastf1,OCO,Alpine,43.0,23.0,83.395,82.393,82.072,81.914,2.0
+2024,São Paulo Grand Prix,21,fastf1,PER,Red Bull Racing,46.0,6.0,84.44149999999999,85.8025,85.398,85.755,2.0
+2024,São Paulo Grand Prix,21,fastf1,PIA,McLaren,43.0,18.0,84.174,82.219,81.9395,81.838,2.0
+2024,São Paulo Grand Prix,21,fastf1,RUS,Mercedes,45.0,24.0,83.517,84.384,83.97,83.517,2.0
+2024,São Paulo Grand Prix,21,fastf1,SAI,Ferrari,23.0,1.0,85.434,86.167,86.167,,2.0
+2024,São Paulo Grand Prix,21,fastf1,TSU,RB,45.0,41.0,84.293,84.179,82.766,81.955,2.0
+2024,São Paulo Grand Prix,21,fastf1,VER,Red Bull Racing,45.0,26.0,82.876,81.9335,81.32425,81.029,2.0
+2024,São Paulo Grand Prix,21,fastf1,ZHO,Kick Sauber,44.0,41.0,85.2145,85.376,84.37,83.453,2.0
+2024,Las Vegas Grand Prix,22,fastf1,ALB,Williams,19.0,9.0,99.211,98.66,98.525,98.525,2.0
+2024,Las Vegas Grand Prix,22,fastf1,ALO,Aston Martin,42.0,20.0,98.475,98.237,97.883,97.634,2.0
+2024,Las Vegas Grand Prix,22,fastf1,BOT,Kick Sauber,39.0,16.0,99.452,98.321,97.019,96.728,2.0
+2024,Las Vegas Grand Prix,22,fastf1,COL,Williams,42.0,16.0,98.3245,97.9625,97.34025,97.02,2.0
+2024,Las Vegas Grand Prix,22,fastf1,GAS,Alpine,9.0,2.0,99.635,100.765,100.2165,,2.0
+2024,Las Vegas Grand Prix,22,fastf1,HAM,Mercedes,39.0,20.0,97.121,96.3425,95.917,95.863,2.0
+2024,Las Vegas Grand Prix,22,fastf1,HUL,Haas F1 Team,42.0,16.0,98.4265,98.106,96.96275,96.704,2.0
+2024,Las Vegas Grand Prix,22,fastf1,LAW,RB,39.0,22.0,99.297,99.2615,97.35425,97.195,2.0
+2024,Las Vegas Grand Prix,22,fastf1,LEC,Ferrari,40.0,13.0,97.3715,97.978,97.295,97.218,2.0
+2024,Las Vegas Grand Prix,22,fastf1,MAG,Haas F1 Team,45.0,26.0,98.696,98.0105,97.69275,97.228,2.0
+2024,Las Vegas Grand Prix,22,fastf1,NOR,McLaren,39.0,26.0,98.232,97.471,96.26849999999999,95.843,2.0
+2024,Las Vegas Grand Prix,22,fastf1,OCO,Alpine,40.0,12.0,99.21000000000001,98.83500000000001,98.5925,98.435,2.0
+2024,Las Vegas Grand Prix,22,fastf1,PER,Red Bull Racing,41.0,18.0,98.112,98.2835,97.895,97.112,2.0
+2024,Las Vegas Grand Prix,22,fastf1,PIA,McLaren,40.0,19.0,98.1995,97.431,97.1095,97.047,2.0
+2024,Las Vegas Grand Prix,22,fastf1,RUS,Mercedes,40.0,40.0,97.6665,97.6665,96.97675,96.057,2.0
+2024,Las Vegas Grand Prix,22,fastf1,SAI,Ferrari,40.0,32.0,97.519,97.49549999999999,96.5085,96.015,2.0
+2024,Las Vegas Grand Prix,22,fastf1,STR,Aston Martin,42.0,18.0,98.5535,97.767,97.40375,97.313,2.0
+2024,Las Vegas Grand Prix,22,fastf1,TSU,RB,40.0,25.0,98.3455,98.304,98.064,97.6,2.0
+2024,Las Vegas Grand Prix,22,fastf1,VER,Red Bull Racing,41.0,27.0,97.678,97.679,97.22649999999999,96.72,2.0
+2024,Las Vegas Grand Prix,22,fastf1,ZHO,Kick Sauber,42.0,18.0,99.178,98.856,97.1845,97.003,2.0
+2024,Qatar Grand Prix,23,fastf1,ALB,Williams,38.0,11.0,87.26050000000001,87.222,86.2055,85.751,2.0
+2024,Qatar Grand Prix,23,fastf1,ALO,Aston Martin,41.0,16.0,86.245,85.02199999999999,84.041,83.885,2.0
+2024,Qatar Grand Prix,23,fastf1,BOT,Kick Sauber,37.0,17.0,86.958,86.461,86.288,85.92,2.0
+2024,Qatar Grand Prix,23,fastf1,GAS,Alpine,40.0,20.0,86.0445,84.15700000000001,83.9735,83.904,2.0
+2024,Qatar Grand Prix,23,fastf1,HAM,Mercedes,36.0,18.0,85.88,85.352,85.12125,84.462,2.0
+2024,Qatar Grand Prix,23,fastf1,HUL,Haas F1 Team,23.0,7.0,87.3,88.229,87.86,87.908,2.0
+2024,Qatar Grand Prix,23,fastf1,LAW,RB,41.0,23.0,87.143,87.143,86.601,86.264,2.0
+2024,Qatar Grand Prix,23,fastf1,LEC,Ferrari,40.0,35.0,84.90450000000001,84.909,83.67250000000001,83.356,2.0
+2024,Qatar Grand Prix,23,fastf1,MAG,Haas F1 Team,37.0,27.0,86.148,86.304,84.672,84.482,2.0
+2024,Qatar Grand Prix,23,fastf1,NOR,McLaren,38.0,8.0,84.9375,82.908,82.59775,82.64,2.0
+2024,Qatar Grand Prix,23,fastf1,PER,Red Bull Racing,27.0,24.0,86.049,85.951,85.54075,85.39,2.0
+2024,Qatar Grand Prix,23,fastf1,PIA,McLaren,39.0,9.0,84.897,84.894,84.75,84.75,2.0
+2024,Qatar Grand Prix,23,fastf1,RUS,Mercedes,38.0,13.0,85.652,85.749,85.56,85.546,2.0
+2024,Qatar Grand Prix,23,fastf1,SAI,Ferrari,39.0,12.0,85.236,85.2115,85.04925,84.885,2.0
+2024,Qatar Grand Prix,23,fastf1,TSU,RB,41.0,24.0,87.301,87.0805,86.5155,86.369,2.0
+2024,Qatar Grand Prix,23,fastf1,VER,Red Bull Racing,41.0,41.0,84.72,84.72,83.423,83.043,2.0
+2024,Qatar Grand Prix,23,fastf1,ZHO,Kick Sauber,41.0,29.0,85.937,85.849,84.428,84.038,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,ALB,Williams,47.0,36.0,89.994,89.8455,89.60849999999999,89.471,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,ALO,Aston Martin,45.0,29.0,89.718,89.565,88.277,88.214,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,BOT,Kick Sauber,22.0,18.0,89.9745,89.888,89.81375,89.582,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,COL,Williams,18.0,18.0,90.2595,90.2595,90.161,90.034,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,DOO,Alpine,46.0,34.0,90.392,90.0485,89.62450000000001,89.493,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,GAS,Alpine,45.0,39.0,89.611,89.571,89.473,89.321,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,HAM,Mercedes,46.0,33.0,89.6265,89.486,87.692,87.342,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,HUL,Haas F1 Team,48.0,24.0,89.772,89.595,89.44,89.331,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,LAW,RB,42.0,35.0,89.5735,89.459,89.1635,88.819,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,LEC,Ferrari,46.0,33.0,88.548,88.455,88.303,88.135,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,MAG,Haas F1 Team,43.0,23.0,90.043,89.632,89.041,88.842,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,NOR,McLaren,49.0,49.0,88.237,88.237,87.974,87.647,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,PIA,McLaren,46.0,16.0,89.4005,88.18700000000001,87.80725000000001,87.731,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,RUS,Mercedes,47.0,38.0,88.687,88.527,88.43650000000001,88.329,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,SAI,Ferrari,49.0,49.0,88.404,88.404,88.184,87.851,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,STR,Aston Martin,44.0,20.0,89.91999999999999,89.0815,88.8015,88.731,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,TSU,RB,45.0,32.0,89.8,89.68700000000001,89.483,89.308,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,VER,Red Bull Racing,50.0,36.0,88.94550000000001,88.49799999999999,88.19,87.821,2.0
+2024,Abu Dhabi Grand Prix,24,fastf1,ZHO,Kick Sauber,42.0,29.0,89.965,89.834,88.689,88.23,2.0
